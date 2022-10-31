@@ -1,0 +1,13 @@
+FP:
+0 tensor(0.0074) tensor(0.0196) tensor(0.4969) tensor(0.5031)
+31 tensor(0.0360) tensor(0.0470) tensor(0.4972) tensor(0.5028)
+43 tensor(0.0202) tensor(0.0232) tensor(0.4992) tensor(0.5008)
+77 tensor(-0.0070) tensor(0.0578) tensor(0.4838) tensor(0.5162)
+90 tensor(0.0147) tensor(0.0280) tensor(0.4967) tensor(0.5033)
+94 tensor(0.0158) tensor(0.0210) tensor(0.4987) tensor(0.5013)
+FN:
+7 tensor(0.0675) tensor(0.0067) tensor(0.5152) tensor(0.4848)
+29 tensor(0.1151) tensor(-0.0435) tensor(0.5396) tensor(0.4604)
+37 tensor(0.0653) tensor(0.0127) tensor(0.5131) tensor(0.4869)
+59 tensor(0.0655) tensor(0.0147) tensor(0.5127) tensor(0.4873)
+75 tensor(0.0667) tensor(-0.0110) tensor(0.5194) tensor(0.4806)
