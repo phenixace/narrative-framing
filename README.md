@@ -14,9 +14,9 @@ Please check the directory `./exploratory analysis/`
 * dataset.py: transform the dataset format
 * exploratory_analysis.ipynb: conduct exploratory analysis
 * naive_baselines.ipynb: Baseline models
-* pre_training: further pre-training PLMs on our unlabelled dataset
 * sentence_bert.ipynb: sentence-BERT test and visualization
 * topic_modelling.ipynb: conduct LDA topic modelling
+* unsupervisedRBF.ipynb: conduct unsupervised RBF
 * utils.py: auxiliary functions
 
 ### run training 
