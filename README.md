@@ -49,9 +49,9 @@ optional arguments:
   --checkpoint_dir CHECKPOINT_DIR
                         directory to save checkpoint
 ```
-sentence-bert
+RBF
 ```
-python training_stb.py
+python training_rbf.py
 
 Framing Detection in Climate Change
 
