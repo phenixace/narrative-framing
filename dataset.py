@@ -4,7 +4,7 @@ import numpy as np
 import torch
 
 
-LABELS = ['ar', 'hi', 'mo', 'co', 'ec']
+LABELS = ['ar', 'hi', 'co', 'mo', 'ec']
 
 class ClimateDataset(Dataset):
     def __init__(self, mode, folder, fold=None):
@@ -25,24 +25,24 @@ class ClimateDataset(Dataset):
                     self.text.append(temp[0])
                     self.ars.append(False)
                     self.his.append(False)
-                    self.mos.append(False)
                     self.cos.append(False)
+                    self.mos.append(False)
                     self.ecs.append(False)
         else:
             with open(folder+'/Fold_'+str(fold)+'/'+mode+'.txt', 'r', encoding='utf-8') as f:
                 lines = f.readlines()
                 for line in lines:
                     temp = line.strip('\n').split('\t')
-                    self.text.append(temp[0])
-                    self.ars.append(temp[1]=='True')
-                    self.his.append(temp[2]=='True')
-                    self.mos.append(temp[3]=='True')
-                    self.cos.append(temp[4]=='True')
-                    self.ecs.append(temp[5]=='True')
+                    self.text.append(temp[4])
+                    self.ars.append(temp[5]=='True')
+                    self.his.append(temp[6]=='True')
+                    self.cos.append(temp[7]=='True')
+                    self.mos.append(temp[8]=='True')
+                    self.ecs.append(temp[9]=='True')
 
 
     def __getitem__(self, index):
-        return self.text[index], self.ars[index], self.his[index], self.mos[index], self.cos[index], self.ecs[index]
+        return self.text[index], self.ars[index], self.his[index], self.cos[index], self.mos[index], self.ecs[index]
 
     def __len__(self):
         return len(self.text)
@@ -164,7 +164,8 @@ class SentenceDataset(Dataset):
 
         for line in lines:
             temp = line.split('\t')
-            self.texts.append(temp[:-1])
+            # change here 
+            self.texts.append(temp[4:-1])
             self.labels.append(temp[-1].strip('\n') == 'True')
 
 
@@ -219,4 +220,4 @@ if __name__ == '__main__':
 
     b = SentenceDataset('./dataset_sentence/', 1, 'AR', 'train')
 
-    print(b[10])
+    print(len(b[10][0]))

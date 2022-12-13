@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-from transformers import BertModel, LongformerModel
+from transformers import BertModel, LongformerModel, AutoModel
 
 class FD_BASE(nn.Module):
     '''
@@ -14,12 +14,12 @@ class FD_BASE(nn.Module):
             if model == 'bert':
                 self.model = BertModel.from_pretrained("bert-base-uncased")
             elif model == 'longformer':
-                self.model = LongformerModel.from_pretrained("allenai/longformer-base-4096")
+                self.model = AutoModel.from_pretrained("allenai/longformer-base-4096")
         else:
             if model == 'bert':
                 self.model = BertModel.from_pretrained(ckp_path)
             elif model == 'longformer':
-                self.model = LongformerModel.from_pretrained(ckp_path)
+                self.model = AutoModel.from_pretrained(ckp_path)
 
         self.linear1 = nn.Linear(self.max_length, 5)
         self.linear2 = nn.Linear(768, 2)
@@ -46,14 +46,14 @@ class FD_SIN(nn.Module):
             if model == 'bert':
                 self.model = BertModel.from_pretrained("bert-base-uncased")
             elif model == 'longformer':
-                self.model = LongformerModel.from_pretrained("allenai/longformer-base-4096")
+                self.model = AutoModel.from_pretrained("allenai/longformer-base-4096")
         else:
             if model == 'bert':
                 self.model = BertModel.from_pretrained(ckp_path)
             elif model == 'longformer':
-                self.model = LongformerModel.from_pretrained(ckp_path)
+                self.model = AutoModel.from_pretrained(ckp_path)
 
-        self.linear = nn.Linear(1024, 2)
+        self.linear = nn.Linear(768, 2)
 
     def forward(self, input):
         if self.fine_tuning:
@@ -113,7 +113,10 @@ class sentenceBert(nn.Module):
         self.fusion = fusion
 
         if model == 'bert':
-            self.model = BertModel.from_pretrained("bert-base-uncased", output_attentions=True)
+            self.model = BertModel.from_pretrained("bert-base-uncased")
+
+        elif model == 'longformer':
+            self.model = AutoModel.from_pretrained("allenai/longformer-base-4096")
 
         if self.fusion == 'concat':
             self.linear_o = nn.Linear(768*self.n_passages, 2)

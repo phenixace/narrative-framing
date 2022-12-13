@@ -91,14 +91,14 @@ def eval(model, loader, evaluator, criterion, device):
 
 def main():
     parser = argparse.ArgumentParser(description='Framing Detection in Climate Change')
-    parser.add_argument('--random_seed', type=int, default=42,
+    parser.add_argument('--random_seed', type=int, default=1042,
                         help='Random Seed for the program')
 
     parser.add_argument('--device', type=str, default="cuda:0", 
                         help='Selecting running device (default:cuda:0)')
 
-    parser.add_argument('--lr', type=float, default=2e-5,
-                        help='learning rate (default: 2e-5)')
+    parser.add_argument('--lr', type=float, default=2e-6,
+                        help='learning rate (default: 2e-6)')
 
     parser.add_argument('--lm', type=str, default="bert", 
                         help='pre-trained language model')
@@ -111,15 +111,15 @@ def main():
 
     parser.add_argument('--specified_label', type=str, default='None', 
                         help='label for model BERT4SIN')
-
+ 
     parser.add_argument('--fine_tuning', action='store_true', 
                         help='fine tune the weights of bert')
 
     parser.add_argument('--dataset_balancing', action='store_true', 
                         help='Balance the label distribution in the dataset')
 
-    parser.add_argument('--max_len', type=int, default=512,
-                        help='max length the input can take (default: 512)')
+    parser.add_argument('--max_len', type=int, default=256,
+                        help='max length the input can take (default: 256)')
 
     parser.add_argument('--fold', type=int, default=1,
                         help='We do 5-fold validation, select fold number here (default: 1)')
@@ -127,8 +127,8 @@ def main():
     parser.add_argument('--ckp_path', type=str, default = '', 
                         help='further pretrained model path')
 
-    parser.add_argument('--batch_size', type=int, default=8,
-                        help='batch size for training (default: 8)')
+    parser.add_argument('--batch_size', type=int, default=16,
+                        help='batch size for training (default: 16)')
 
     parser.add_argument('--epochs', type=int, default=20,
                         help='number of training epochs (default: 20)')
@@ -183,6 +183,9 @@ def main():
         model = FD_BASE(args.lm, args.max_len, args.fine_tuning, args.ckp_path).to(args.device)
     elif args.model == 'FD_SIN':
         model = FD_SIN(args.lm, args.fine_tuning, args.ckp_path).to(args.device)
+
+    total = sum([param.nelement() for param in model.parameters()])
+    print('parameters:', total)
 
     optimizer = optim.AdamW(model.parameters(), lr=args.lr)
 

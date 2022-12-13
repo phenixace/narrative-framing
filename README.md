@@ -31,19 +31,19 @@ optional arguments:
   --random_seed RANDOM_SEED
                         Random Seed for the program
   --device DEVICE       Selecting running device (default:cuda:0)
-  --lr LR               learning rate (default: 2e-5)
+  --lr LR               learning rate (default: 2e-6)
   --lm LM               pre-trained language model
   --model MODEL         model structure to use
-  --dataset DATASET     entire dataset file path
+  --dataset DATASET     dataset folder path
   --specified_label SPECIFIED_LABEL
-                        label for model BERT4SIN
+                        label for training
   --fine_tuning         fine tune the weights of bert
   --dataset_balancing   Balance the label distribution in the dataset
-  --max_len MAX_LEN     max length the input can take (default: 512)
-  --fold FOLD           We do 5-fold validation, select fold number here (default: 1)
+  --max_len MAX_LEN     max length the input can take (default: 256)
+  --fold FOLD           We do 5-fold validation, select fold number here (range: 1~5)
   --ckp_path CKP_PATH   further pretrained model path
   --batch_size BATCH_SIZE
-                        batch size for training (default: 8)
+                        batch size for training (default: 16)
   --epochs EPOCHS       number of training epochs (default: 20)
   --log_dir LOG_DIR     tensorboard log directory
   --checkpoint_dir CHECKPOINT_DIR
@@ -63,17 +63,17 @@ optional arguments:
   --dataset DATASET     dataset folder path
   --lr LR               learning rate (default: 2e-6)
   --lm LM               pre-trained language model
-  --max_len MAX_LEN     max length the input can take (default: 64)
-  --fold FOLD           We do 5-fold validation, select fold number here (default: 1)
+  --max_len MAX_LEN     max length the input can take (default: 256)
+  --fold FOLD           We do 5-fold validation, select fold number here (range: 1~5)
   --n_passages N_PASSAGES
-                        How many sentences to select, (1-5)
+                        How many channels to select (range: 1~5), RBF-C <=> n_passages=5, RBF-C -a <=> n_passages=4, RBF-C -a-t <=> n_passages=3
   --batch_size BATCH_SIZE
-                        batch size for training (default: 4)
+                        batch size for training (default: 8)
   --epochs EPOCHS       number of training epochs (default: 20)
   --specified_label SPECIFIED_LABEL
                         label for training
   --fusion FUSION       Fusion Strategy
-  --fine_tuning         fine tune the weights of bert
+  --fine_tuning         fine tune the weights of PLM
   --dataset_balancing   Balance the label distribution in the dataset
   --log_dir LOG_DIR     tensorboard log directory
   --checkpoint_dir CHECKPOINT_DIR
@@ -82,5 +82,9 @@ optional arguments:
 #### run batch training
 `Remember to edit the codes first to run batch training`
 ```
-python run_training.py
+python ./scripts/run_training_x.py
+```
+`Training on the cloud clusters (Please make sure the environment has been set up.)`
+```
+sbatch ./scripts/run_training_x.slurm
 ```

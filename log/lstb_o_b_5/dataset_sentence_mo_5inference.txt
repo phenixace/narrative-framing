@@ -1,0 +1,10 @@
+FP:
+2 tensor(-0.6310) tensor(0.6238) tensor(0.2219) tensor(0.7781)
+15 tensor(0.0325) tensor(0.0928) tensor(0.4849) tensor(0.5151)
+28 tensor(-0.1607) tensor(0.2437) tensor(0.4002) tensor(0.5998)
+43 tensor(-0.7580) tensor(0.8519) tensor(0.1666) tensor(0.8334)
+FN:
+32 tensor(0.2931) tensor(-0.4587) tensor(0.6796) tensor(0.3204)
+34 tensor(1.1504) tensor(-1.3832) tensor(0.9265) tensor(0.0735)
+51 tensor(0.3350) tensor(-0.6652) tensor(0.7311) tensor(0.2689)
+83 tensor(0.1750) tensor(-0.0972) tensor(0.5676) tensor(0.4324)

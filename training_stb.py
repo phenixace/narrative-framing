@@ -70,7 +70,7 @@ def eval(model, loader, evaluator, criterion, device):
 
 def main():
     parser = argparse.ArgumentParser(description='Framing Detection in Climate Change')
-    parser.add_argument('--random_seed', type=int, default=1043,
+    parser.add_argument('--random_seed', type=int, default=1042,
                         help='Random Seed for the program')
 
     parser.add_argument('--device', type=str, default="cuda:0", 
@@ -85,17 +85,17 @@ def main():
     parser.add_argument('--lm', type=str, default="bert", 
                         help='pre-trained language model')
     
-    parser.add_argument('--max_len', type=int, default=64,
-                        help='max length the input can take (default: 64)')
+    parser.add_argument('--max_len', type=int, default=256,
+                        help='max length the input can take (default: 256)')
 
     parser.add_argument('--fold', type=int, default=1,
                         help='We do 5-fold validation, select fold number here (default: 1)')
     
     parser.add_argument('--n_passages', type=int, default=1,
-                        help='How many sentences to select, (1-5)')
+                        help='How many channels to select, (1-5)')
 
-    parser.add_argument('--batch_size', type=int, default=4,
-                        help='batch size for training (default: 4)')
+    parser.add_argument('--batch_size', type=int, default=8,
+                        help='batch size for training (default: 8)')
 
     parser.add_argument('--epochs', type=int, default=20,
                         help='number of training epochs (default: 20)')
@@ -153,7 +153,9 @@ def main():
     test_loader  = DataLoader(dataset=test_set,  batch_size=args.batch_size, collate_fn=collator)
         
     # model to use
-    model = sentenceBert(args.lm, args.fine_tuning, args.n_passages, args.fusion).to(args.device)       
+    model = sentenceBert(args.lm, args.fine_tuning, args.n_passages, args.fusion).to(args.device)    
+    total = sum([param.nelement() for param in model.parameters()])
+    print('parameters:', total)   
 
     optimizer = optim.AdamW(model.parameters(), lr=args.lr)
 

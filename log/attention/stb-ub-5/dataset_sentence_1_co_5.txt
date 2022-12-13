@@ -1,3 +1,0 @@
-Namespace(batch_size=4, checkpoint_dir='./ckp/', dataset='./dataset_sentence/', dataset_balancing=False, device='cuda:0', epochs=20, fine_tuning=True, fold=1, fusion='attention', lm='bert', log_dir='./log/attention/stb-ub-5/', lr=2e-06, max_len=64, n_passages=5, random_seed=42, specified_label='co')
-=====Epoch 1
-Training...
