@@ -10,7 +10,7 @@
 
 ## Usage
 ### exploratory analysis
-Please check the directory `./exploratory analysis/`
+Please check the directory `./exploratory_analysis/`
 * dataset.py: transform the dataset format
 * exploratory_analysis.ipynb: conduct exploratory analysis
 * naive_baselines.ipynb: Baseline models
@@ -20,7 +20,7 @@ Please check the directory `./exploratory analysis/`
 * utils.py: auxiliary functions
 
 ### run training 
-base
+#### base
 ```
 python training_base.py
 
@@ -49,7 +49,7 @@ optional arguments:
   --checkpoint_dir CHECKPOINT_DIR
                         directory to save checkpoint
 ```
-RBF
+#### RBF
 ```
 python training_rbf.py
 
@@ -88,3 +88,5 @@ python ./scripts/run_training_x.py
 ```
 sbatch ./scripts/run_training_x.slurm
 ```
+#### Compared to KNN+TF-IDF
+Please run the related codes in jupyter notebook [Naive Baselines](./exploratory_analysis/naive_baselines.ipynb)
