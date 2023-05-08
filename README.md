@@ -10,6 +10,8 @@ Towards models of Narrative Media Framing"
 * transformers == 4.28.0
 * nltk == 3.7
 
+Other versions might also work, but the default settings are recommended if you encounter any version inconsistency problems.
+
 ## Usage
 ### exploratory analysis
 Please check the directory `./exploratory_analysis/`
@@ -92,3 +94,8 @@ sbatch ./scripts/run_training_x.slurm
 ```
 #### Compared to KNN+TF-IDF
 Please run the related codes in jupyter notebook [Naive Baselines](./exploratory_analysis/naive_baselines.ipynb)
+
+## Citation
+```
+TBA
+```
