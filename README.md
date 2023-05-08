@@ -14,7 +14,7 @@ Other versions might also work, but the default settings are recommended if you 
 
 ## Data
 There are two processed dataset in the current repo.
-* [`./dataset_original`](./dataset_original)
+* [`./dataset_original/`](./dataset_original)
 
 Structure:
 ```
@@ -28,7 +28,7 @@ Format:
 ```
 ID  Source  Bias  Time  Full_News_Content  AR  HI  CO  MO  EC
 ```
-* [`./dataset_sentence`](./dataset_sentence)
+* [`./dataset_sentence/`](./dataset_sentence)
 
 Structure:
 ```
