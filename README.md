@@ -1,4 +1,6 @@
 # Framing Detection
+This repo is the dataset and codes for ACL 2023 paper "Conflicts, Villains, Resolutions:
+Towards models of Narrative Media Framing"
 
 ## Requirements
 * torch
