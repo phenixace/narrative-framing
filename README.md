@@ -14,13 +14,13 @@ Other versions might also work, but the default settings are recommended if you 
 
 ## Data
 There are two processed dataset in the current repo.
-* './dataset_original'
+* [`./dataset_original`](./dataset_original)
 
 Format:
 ```
 ID  Source  Bias  Time  Full_News_Content  AR  HI  CO  MO  EC
 ```
-* './dataset_sentence'
+* [`./dataset_sentence`](./dataset_sentence)
 
 Format:
 ```
@@ -29,17 +29,17 @@ ID  Source  Bias  Time  S1  S2  S3  S4  S5  Remaining_Sentences_RankedByRelatene
 
 ## Usage
 ### exploratory analysis
-Please check the directory `./exploratory_analysis/`
-* dataset.py: transform the dataset format
-* exploratory_analysis.ipynb: conduct exploratory analysis
-* naive_baselines.ipynb: Baseline models
-* sentence_bert.ipynb: sentence-BERT test and visualization
-* topic_modelling.ipynb: conduct LDA topic modelling
-* unsupervisedRBF.ipynb: conduct unsupervised RBF
-* utils.py: auxiliary functions
+Please check the directory [`./exploratory_analysis/`](./exploratory_analysis/)
+* [dataset.py](./exploratory_analysis/dataset.py): transform the dataset format
+* [exploratory_analysis.ipynb](./exploratory_analysis/exploratory_analysis.ipynb): conduct exploratory analysis
+* [naive_baselines.ipynb](./exploratory_analysis/naive_baselines.ipynb): Baseline models
+* [sentence_bert.ipynb](./exploratory_analysis/sentence_bert.ipynb): sentence-BERT test and visualization
+* [topic_modelling.ipynb](./exploratory_analysis/topic_modelling.ipynb): conduct LDA topic modelling
+* [unsupervisedRBF.ipynb](./exploratory_analysis/unsupervisedRBF.ipynb): conduct unsupervised RBF
+* [utils.py](./exploratory_analysis/utils.py): auxiliary functions
 
 ### run training 
-#### base
+#### [base](./training_base.py)
 ```
 python training_base.py
 
@@ -68,7 +68,7 @@ optional arguments:
   --checkpoint_dir CHECKPOINT_DIR
                         directory to save checkpoint
 ```
-#### RBF
+#### [RBF](./training_rbf.py)
 ```
 python training_rbf.py
 
