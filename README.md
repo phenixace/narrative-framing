@@ -54,6 +54,12 @@ Please check the directory [`./exploratory_analysis/`](./exploratory_analysis/)
 * [topic_modelling.ipynb](./exploratory_analysis/topic_modelling.ipynb): conduct LDA topic modelling
 * [unsupervisedRBF.ipynb](./exploratory_analysis/unsupervisedRBF.ipynb): conduct unsupervised RBF
 * [utils.py](./exploratory_analysis/utils.py): auxiliary functions
+* [annotated_data_500](./exploratory_analysis/annotated_data_500): The original dataset with labels
+* [unlabelled_articles_17K](./exploratory_analysis/unlabelled_articles_17K): The original dataset without labels
+* [lda_results](./exploratory_analysis/lda_results): LDA Results of the original dataset
+* [output](./exploratory_analysis/output): News Distribution Plot
+* [utils](./exploratory_analysis/utils): The list of stopwords 
+
 
 ### run training 
 #### [base](./training_base.py)
