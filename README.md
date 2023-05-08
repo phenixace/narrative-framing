@@ -15,11 +15,13 @@ Other versions might also work, but the default settings are recommended if you 
 ## Data
 There are two processed dataset in the current repo.
 * './dataset_original'
+
 Format:
 ```
 ID  Source  Bias  Time  Full_News_Content  AR  HI  CO  MO  EC
 ```
 * './dataset_sentence'
+
 Format:
 ```
 ID  Source  Bias  Time  S1  S2  S3  S4  S5  Remaining_Sentences_RankedByRelateness  Full_News_Content  LABEL
