@@ -16,11 +16,24 @@ Other versions might also work, but the default settings are recommended if you 
 There are two processed dataset in the current repo.
 * [`./dataset_original`](./dataset_original)
 
+Structure:
+- Fold_(1-5)
+  - dev.txt
+  - test.txt
+  - train.txt
+
 Format:
 ```
 ID  Source  Bias  Time  Full_News_Content  AR  HI  CO  MO  EC
 ```
 * [`./dataset_sentence`](./dataset_sentence)
+
+Structure:
+- Fold_(1-5)
+  - LABEL
+    - dev.txt
+    - test.txt
+    - train.txt 
 
 Format:
 ```
@@ -99,7 +112,7 @@ optional arguments:
                         directory to save checkpoint
 ```
 #### run batch training
-`Remember to edit the codes first to run batch training`
+`Remember to edit the codes first before running batch training`
 ```
 python ./scripts/run_training_x.py
 ```
