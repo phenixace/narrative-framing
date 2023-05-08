@@ -3,12 +3,12 @@ This repo is the dataset and codes for ACL 2023 paper "Conflicts, Villains, Reso
 Towards models of Narrative Media Framing"
 
 ## Requirements
-* torch
-* argparse
-* numpy
-* tqdm
-* transformers
-* nltk
+* torch == 1.13.1
+* argparse == 1.1
+* numpy == 1.21.5
+* tqdm == 4.64.1
+* transformers == 4.28.0
+* nltk == 3.7
 
 ## Usage
 ### exploratory analysis
