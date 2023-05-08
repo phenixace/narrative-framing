@@ -1,5 +1,5 @@
 # Framing Detection
-This repo is the dataset and codes for ACL 2023 paper "Conflicts, Villains, Resolutions:
+This repo releases the data and codes for ACL 2023 paper "Conflicts, Villains, Resolutions:
 Towards models of Narrative Media Framing"
 
 ## Requirements
@@ -11,6 +11,19 @@ Towards models of Narrative Media Framing"
 * nltk == 3.7
 
 Other versions might also work, but the default settings are recommended if you encounter any version inconsistency problems.
+
+## Data
+There are two processed dataset in the current repo.
+* './dataset_original'
+Format:
+```
+ID  Source  Bias  Time  Full_News_Content  AR  HI  CO  MO  EC
+```
+* './dataset_sentence'
+Format:
+```
+ID  Source  Bias  Time  S1  S2  S3  S4  S5  Remaining_Sentences_RankedByRelateness  Full_News_Content  LABEL
+```
 
 ## Usage
 ### exploratory analysis
@@ -97,5 +110,10 @@ Please run the related codes in jupyter notebook [Naive Baselines](./exploratory
 
 ## Citation
 ```
-TBA
+@inproceedings{rbf_lea_2023,
+  title={Conflicts, Villains, Resolutions: Towards models of Narrative Media Framing},
+  author={Lea Frermann and Jiatong Li and Shima Khanehzar and Gosia Mikolajczak},
+  booktitle={ACL},
+  year={2023}
+}
 ```
