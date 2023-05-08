@@ -17,10 +17,12 @@ There are two processed dataset in the current repo.
 * [`./dataset_original`](./dataset_original)
 
 Structure:
+```
 - Fold_(1-5)
   - dev.txt
   - test.txt
   - train.txt
+```
 
 Format:
 ```
@@ -29,11 +31,13 @@ ID  Source  Bias  Time  Full_News_Content  AR  HI  CO  MO  EC
 * [`./dataset_sentence`](./dataset_sentence)
 
 Structure:
+```
 - Fold_(1-5)
   - LABEL
     - dev.txt
     - test.txt
-    - train.txt 
+    - train.txt
+```
 
 Format:
 ```
