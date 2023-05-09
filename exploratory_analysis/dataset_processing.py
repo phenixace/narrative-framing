@@ -262,7 +262,7 @@ class TSVDataset(Dataset):
 def create_sentence_dataset(threshold):
     labelled_set = TSVDataset('./annotated_data_500/final_dataset_v2.tsv')
     for fold in range(1, 6):
-        path = '../dataset_processed/Fold_'+str(fold)+'/'
+        path = '../dataset_for_modeling/Fold_'+str(fold)+'/'
 
         from sentence_transformers import SentenceTransformer, util
         from nltk.tokenize import sent_tokenize
@@ -335,11 +335,11 @@ def create_original_dataset(remove_stopwords=False, lemmatization=False):
     labelled_set = TSVDataset('./annotated_data_500/final_dataset_v2.tsv', remove_stopwords, lemmatization)
     for fold in range(1, 6):
         if lemmatization:
-            path = '../dataset_lemmatized/Fold_'+str(fold)+'/'
+            path = '../dataset_processed_lemmatized/Fold_'+str(fold)+'/'
         elif remove_stopwords:
-            path = '../dataset_cleaned/Fold_'+str(fold)+'/'
+            path = '../dataset_processed_cleaned/Fold_'+str(fold)+'/'
         else:
-            path = '../dataset_original/Fold_'+str(fold)+'/'
+            path = '../dataset_processed_raw/Fold_'+str(fold)+'/'
         
         f_train = open(path + '/train.txt', 'w+', encoding='utf-8')
         f_valid = open(path + '/dev.txt', 'w+', encoding='utf-8')

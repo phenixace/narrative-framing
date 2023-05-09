@@ -46,7 +46,7 @@ ID  Source  Bias  Time  S1  S2  S3  S4  S5  Remaining_Sentences_RankedByRelatene
 
 ## Usage
 ### exploratory analysis
-Please check the directory [`./exploratory_analysis/`](./exploratory_analysis/)
+This folder includes baselines and raw dataset. Please check the directory [`./exploratory_analysis/`](./exploratory_analysis/)
 * [dataset_processing.py](./exploratory_analysis/dataset_processing.py): transform the dataset format
 * [naive_baselines.ipynb](./exploratory_analysis/naive_baselines.ipynb): Baseline models
 * [sentence_bert.ipynb](./exploratory_analysis/sentence_bert.ipynb): sentence-BERT test and visualization
