@@ -13,6 +13,9 @@ Towards models of Narrative Media Framing"
 Other versions might also work, but the default settings are recommended if you encounter any version inconsistency problems.
 
 ## Data
+`The dataset with full annotations is released in` [this repo](./data/)
+
+We also include the annotation guidelines and all the meta data of articles.
 
 There are also two processed dataset in the current repo.
 * [`data_splits_raw`](./experiments/data_splits_raw)
@@ -120,7 +123,7 @@ Unsupervised version of RBF. For usage, see more instructions in the jupyter not
 python ./experiments/scripts/run_training.py
 ```
 `Training on the cloud clusters (Please make sure the environment has been set up.). Customized paths are also suggested.`
-```
+
 ```
 sbatch ./experiments/scripts/run_training.slurm
 ```
