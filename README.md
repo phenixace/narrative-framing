@@ -117,6 +117,9 @@ optional arguments:
 #### [unsupervisedRBF](./experiments/unsupervisedRBF.ipynb)
 Unsupervised version of RBF. For usage, see more instructions in the jupyter notebook.
 
+#### [Snippext](https://github.com/rit-git/Snippext_public)
+Please refer to the original directory of Snippext. We do not re-upload their codes here. It is easy to transfer their codes to our task. And we are willing to provide help if you encounter any problems.
+
 #### run batch training
 `Sample batch training codes. Remember to edit the codes (change the pre-defined paths to your customized paths) first before running batch training`
 ```
