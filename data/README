@@ -1,0 +1,38 @@
+
+articles_metadata.tsv
+- article ID
+- outlet
+- date of publication
+- mbfc bias
+- full article text
+- frame annotations (5 colums)
+
+
+role_and_frame_annoations.tsv
+- article ID
+- extracted entity
+- entity's stakeholder category
+- entity's assigned role 
+- mbfc bias
+- frame annotations (5 colums)
+
+The full_annotations.json file contains the raw (unaggregated) annotations for ALL original 21 questions (Appendix A). Raw annotations are given ordered by annotator ID (1-4), with -1 indicating that an annotator did not label an article.
+
+The subset of questions which were verified as predictive for one of the five frames, and the only ones used in this
+paper, are:
+
+CO: CO1 CO2, CO3 
+EC: EC1, EC2, EC3
+HI: HI1, HI2, HI5
+MO: MO1, MO2
+RE: RE1, RE5
+
+Hero: RE6
+Villain: RE7
+Victim: HI3
+
+----------------------------------------------------------------------------------------------------------------------
+
+The two pdf files contain the instructions given to annotators.
+
+----------------------------------------------------------------------------------------------------------------------

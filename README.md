@@ -13,8 +13,9 @@ Towards models of Narrative Media Framing"
 Other versions might also work, but the default settings are recommended if you encounter any version inconsistency problems.
 
 ## Data
-There are two processed dataset in the current repo.
-* [`./dataset_processed_raw/`](./dataset_processed_raw)
+
+There are also two processed dataset in the current repo.
+* [`data_splits_raw`](./experiments/data_splits_raw)
 
 Structure:
 ```
@@ -28,7 +29,7 @@ Format:
 ```
 ID  Source  Bias  Time  Full_News_Content  AR  HI  CO  MO  EC
 ```
-* [`./dataset_for_modeling/`](./dataset_for_modeling)
+* [`data_splits_sentence_tokenized`](./experiments/data_splits_sentence_tokenized)
 
 Structure:
 ```
@@ -45,24 +46,16 @@ ID  Source  Bias  Time  S1  S2  S3  S4  S5  Remaining_Sentences_RankedByRelatene
 ```
 
 ## Usage
-### exploratory analysis
-This folder includes baselines and raw dataset. Please check the directory [`./exploratory_analysis/`](./exploratory_analysis/)
-* [dataset_processing.py](./exploratory_analysis/dataset_processing.py): transform the dataset format
-* [naive_baselines.ipynb](./exploratory_analysis/naive_baselines.ipynb): Baseline models
-* [sentence_bert.ipynb](./exploratory_analysis/sentence_bert.ipynb): sentence-BERT test and visualization
-* [unsupervisedRBF.ipynb](./exploratory_analysis/unsupervisedRBF.ipynb): conduct unsupervised RBF
-* [utils.py](./exploratory_analysis/utils.py): auxiliary functions
-* [annotated_data_500](./exploratory_analysis/annotated_data_500): The original dataset with labels
-* [unlabelled_articles_17K](./exploratory_analysis/unlabelled_articles_17K): The original dataset without labels
-* [utils](./exploratory_analysis/utils): The list of stopwords 
+### baselines 
+#### [KNN](./experiments/naive_baselines.ipynb)
+KNN implementation on this problem. For usage, see more instructions in the jupyter notebook.
 
-
-### run training 
-#### [base](./training_base.py)
+#### [BERT & Longformer](./experiments/training_baseline.py)
 ```
-python training_base.py
+cd experiments
+python ./training_baseline.py
 
-Framing Detection in Climate Change
+Framing Detection in Climate Change (BASE)
 
 optional arguments:
   -h, --help            show this help message and exit
@@ -87,11 +80,12 @@ optional arguments:
   --checkpoint_dir CHECKPOINT_DIR
                         directory to save checkpoint
 ```
-#### [RBF](./training_rbf.py)
+#### [RBF](./experiments/training_rbf.py)
 ```
-python training_rbf.py
+cd experiments
+python ./training_rbf.py
 
-Framing Detection in Climate Change
+Framing Detection in Climate Change (RBF)
 
 optional arguments:
   -h, --help            show this help message and exit
@@ -117,21 +111,23 @@ optional arguments:
   --checkpoint_dir CHECKPOINT_DIR
                         directory to save checkpoint
 ```
+#### [unsupervisedRBF](./experiments/unsupervisedRBF.ipynb)
+Unsupervised version of RBF. For usage, see more instructions in the jupyter notebook.
+
 #### run batch training
-`Sample batch training codes. Remember to edit the codes first before running batch training`
+`Sample batch training codes. Remember to edit the codes (change the pre-defined paths to your customized paths) first before running batch training`
 ```
-python ./scripts/run_training.py
+python ./experiments/scripts/run_training.py
 ```
-`Training on the cloud clusters (Please make sure the environment has been set up.)`
+`Training on the cloud clusters (Please make sure the environment has been set up.). Customized paths are also suggested.`
 ```
-sbatch ./scripts/run_training.slurm
 ```
-#### Compared to KNN+TF-IDF
-Please run the related codes in jupyter notebook [Naive Baselines](./exploratory_analysis/naive_baselines.ipynb)
+sbatch ./experiments/scripts/run_training.slurm
+```
 
 ## Citation
 ```
-@inproceedings{rbf_lea_2023,
+@inproceedings{narrative_framing_acl2023,
   title={Conflicts, Villains, Resolutions: Towards models of Narrative Media Framing},
   author={Lea Frermann and Jiatong Li and Shima Khanehzar and Gosia Mikolajczak},
   booktitle={ACL},

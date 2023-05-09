@@ -1,0 +1,1945 @@
+ID	entity	group	role	mbfc	RE	HI	CO	MO	EC
+0	climate alarmists	ENV.ORGS_ACTIVISTS	villain	right_bias	False	False	True	True	False
+0	they	ENV.ORGS_ACTIVISTS	villain	right_bias	False	False	True	True	False
+0	people who are unscientific	GENERALPUBLIC	victim	right_bias	False	False	True	True	False
+2	climate alarmism	ENV.ORGS_ACTIVISTS	villain	right_bias	False	False	False	False	False
+2	Democratic New York Rep. Alexandria Ocasio	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	False	False	False
+2	Democratic New York Rep. Alexandria Ocasio-Cortez's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	False	False	False
+2	the U.S.	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	False	False	False	False	False
+3	climate alarmism	ENV.ORGS_ACTIVISTS	villain	right_bias	False	False	True	False	False
+3	a city built on a swamp	GENERALPUBLIC	victim	right_bias	False	False	True	False	False
+3	Alexandria Ocasio-Cortez	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	True	False	False
+3	Alexandria Ocasio-Cortez	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	True	False	False
+4	O'Rourke	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	True	False	True
+4	U.S Economy	INDUSTRY_EMISSIONS	victim	right_bias	False	False	True	False	True
+4	Watters	MEDIA_JOURNALISTS	hero	right_bias	False	False	True	False	True
+4	human progress	GREEN_TECHNOLOGY_INNOVATION	victim	right_bias	False	False	True	False	True
+9	climate change	CLIMATECHANGE	villain	right_bias	True	False	True	False	True
+9	Republican Rep. Matt Gaetz	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	True	False	True
+9	Republican Rep. Matt Gaetz	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	True	False	True	False	True
+9	Green New Deal	LEGISLATION_POLICIES_RESPONSES	villain	right_bias	True	False	True	False	True
+10	fossil fuel consumption	INDUSTRY_EMISSIONS	villain	right_bias	False	False	True	False	False
+10	Carbon neutrality	LEGISLATION_POLICIES_RESPONSES	hero	right_bias	False	False	True	False	False
+10	news	MEDIA_JOURNALISTS	villain	right_bias	False	False	True	False	False
+11	the Amazon rainforest	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	False	True	True	False	True
+11	Indigenous people of Brazil	GENERALPUBLIC	victim	right_bias	False	True	True	False	True
+11	Mura	GENERALPUBLIC	hero	right_bias	False	True	True	False	True
+11	far-right President Jair Bolsonaro	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	True	True	False	True
+11	President Jair Bolsonaro	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	True	True	False	True
+11	Deforestation	INDUSTRY_EMISSIONS	villain	right_bias	False	True	True	False	True
+11	EU environmental subsidies	LEGISLATION_POLICIES_RESPONSES	hero	right_bias	False	True	True	False	True
+12	drinking water supplies	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	False	False	True	False	False
+12	wildlife	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	False	False	True	False	False
+12	individual states	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	False	False	True	False	False
+12	President Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	True	False	False
+12	the States	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	False	False	True	False	False
+13	Greta Thunberg, a 16-year-old climate change activist	ENV.ORGS_ACTIVISTS	hero	right_bias	False	False	False	False	False
+13	fossil fuels	INDUSTRY_EMISSIONS	villain	right_bias	False	False	False	False	False
+19	The Federal Energy Regulatory Commission FERC	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	True	False	False
+19	two year partisan deadlock	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	True	False	True	False	False
+19	a lack of export infrastructure	INDUSTRY_EMISSIONS	villain	right_bias	True	False	True	False	False
+20	the Earth	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	False	False	False	False	False
+20	the ocean	ANIMALS_NATURE_ENVIRONMENT	hero	right_bias	False	False	False	False	False
+20	the ocean	ANIMALS_NATURE_ENVIRONMENT	villain	right_bias	False	False	False	False	False
+20	carbon dioxide in atmosphere and ocean	INDUSTRY_EMISSIONS	villain	right_bias	False	False	False	False	False
+21	America	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	False	False	True	False	True
+21	Freshman Democrat Alexandria Ocasio-Cortez	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	True	False	True
+25	youth climate activists	ENV.ORGS_ACTIVISTS	hero	right_bias	False	False	True	False	False
+25	disaster-hit countries	GENERALPUBLIC	victim	right_bias	False	False	True	False	False
+25	least-developed states	GENERALPUBLIC	hero	right_bias	False	False	True	False	False
+25	People across the world	GENERALPUBLIC	hero	right_bias	False	False	True	False	False
+25	small-island states	GENERALPUBLIC	hero	right_bias	False	False	True	False	False
+25	the world's	GENERALPUBLIC	hero	right_bias	False	False	True	False	False
+25	the world's	GENERALPUBLIC	victim	right_bias	False	False	True	False	False
+25	Australia	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	True	False	False
+25	Brazil	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	True	False	False
+25	China	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	True	False	False
+25	governments	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	True	False	False
+25	India	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	True	False	False
+25	Saudi Arabia	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	True	False	False
+25	the European Union	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	False	False	True	False	False
+25	USA	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	True	False	False
+28	activists	ENV.ORGS_ACTIVISTS	villain	right_bias	False	False	True	False	False
+28	activists	ENV.ORGS_ACTIVISTS	victim	right_bias	False	False	True	False	False
+28	Thousands of European activists	ENV.ORGS_ACTIVISTS	hero	right_bias	False	False	True	False	False
+30	Environmental movement	ENV.ORGS_ACTIVISTS	victim	right_bias	False	True	True	False	False
+30	Extinction Rebellion	ENV.ORGS_ACTIVISTS	villain	right_bias	False	True	True	False	False
+30	law enforcement	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	False	True	True	False	False
+30	businesses	INDUSTRY_EMISSIONS	victim	right_bias	False	True	True	False	False
+30	businesses	INDUSTRY_EMISSIONS	victim	right_bias	False	True	True	False	False
+32	the highest tide in 50 years	ANIMALS_NATURE_ENVIRONMENT	villain	right_bias	True	True	False	False	True
+32	Global warming	CLIMATECHANGE	villain	right_bias	True	True	False	False	True
+32	Prime Minister Giuseppe Conte	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	True	False	False	True
+32	Venice	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	True	True	False	False	True
+39	O'Rourke	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	True	False	True	False
+40	Sanders	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	False	False	True
+40	the Green New Deal	LEGISLATION_POLICIES_RESPONSES	hero	right_bias	True	False	False	False	True
+43	bipartisan	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	False	False	True	False	False
+43	the Green New Deal	LEGISLATION_POLICIES_RESPONSES	villain	right_bias	False	False	True	False	False
+43	lawmakers	LEGISLATION_POLICIES_RESPONSES	hero	right_bias	False	False	True	False	False
+44	man-made climate change	CLIMATECHANGE	villain	right_bias	False	False	True	False	False
+44	Climate activists	ENV.ORGS_ACTIVISTS	hero	right_bias	False	False	True	False	False
+44	young students	GENERALPUBLIC	villain	right_bias	False	False	True	False	False
+44	kids	GENERALPUBLIC	villain	right_bias	False	False	True	False	False
+46	downtown Manhattan community	GENERALPUBLIC	victim	right_bias	False	False	True	False	True
+46	waterfront neighbourhoods	GENERALPUBLIC	victim	right_bias	False	False	True	False	True
+46	Bill de Blasio	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	True	False	True
+46	New York City	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	False	False	True	False	True
+46	New York City Mayor Bill de Blasio	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	True	False	True
+49	President Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	True	False	False
+49	The United States	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	False	False	True	False	False
+49	The United States	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	False	False	True	False	False
+49	Global climate response	LEGISLATION_POLICIES_RESPONSES	victim	right_bias	False	False	True	False	False
+49	the Paris climate agreement	LEGISLATION_POLICIES_RESPONSES	hero	right_bias	False	False	True	False	False
+49	the Paris climate agreement	LEGISLATION_POLICIES_RESPONSES	villain	right_bias	False	False	True	False	False
+50	Antarctic sea-ice	ANIMALS_NATURE_ENVIRONMENT	villain	right_bias	False	False	False	False	False
+50	Antarctica's ice shelves	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	False	False	False	False	False
+50	rivers of warm ocean water	ANIMALS_NATURE_ENVIRONMENT	villain	right_bias	False	False	False	False	False
+50	the Earth	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	False	False	False	False	False
+50	the ocean	ANIMALS_NATURE_ENVIRONMENT	villain	right_bias	False	False	False	False	False
+51	climate alarmists	ENV.ORGS_ACTIVISTS	villain	right_bias	False	False	False	False	False
+52	the environmental left	ENV.ORGS_ACTIVISTS	villain	right_bias	True	True	True	True	False
+52	conservatives	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	True	True	True	False
+52	conservatives	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	True	True	True	True	False
+53	New York Democratic Rep. Alexandria Ocasio-Cortez	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	True	False	True
+53	economy	INDUSTRY_EMISSIONS	victim	right_bias	False	False	True	False	True
+53	Green New Deal	LEGISLATION_POLICIES_RESPONSES	hero	right_bias	False	False	True	False	True
+57	the planet	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	True	False	False	False	False
+57	climate alarmists	ENV.ORGS_ACTIVISTS	villain	right_bias	True	False	False	False	False
+57	climate-change warriors	ENV.ORGS_ACTIVISTS	villain	right_bias	True	False	False	False	False
+57	The United Nations	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	False	False	False
+57	Nuclear	INDUSTRY_EMISSIONS	hero	right_bias	True	False	False	False	False
+57	climate response	LEGISLATION_POLICIES_RESPONSES	victim	right_bias	True	False	False	False	False
+59	Cortez	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	True	False	True
+59	Democratic Party	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	False	False	True	False	True
+59	The Green New Deal	LEGISLATION_POLICIES_RESPONSES	villain	right_bias	False	False	True	False	True
+60	people health	GENERALPUBLIC	victim	right_bias	False	False	False	False	False
+60	happiness	GENERALPUBLIC	victim	right_bias	False	False	False	False	False
+60	health	GENERALPUBLIC	victim	right_bias	False	False	False	False	False
+60	air pollution	INDUSTRY_EMISSIONS	villain	right_bias	False	False	False	False	False
+60	pollution	INDUSTRY_EMISSIONS	villain	right_bias	False	False	False	False	False
+64	Greta Thunberg	ENV.ORGS_ACTIVISTS	villain	right_bias	False	True	False	True	False
+64	we	GENERALPUBLIC	victim	right_bias	False	True	False	True	False
+69	green/environmental groups	ENV.ORGS_ACTIVISTS	victim	right_bias	True	False	True	False	True
+69	the nation's most populous state	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	True	False	True	False	True
+69	California Gov. Gavin Newsom	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	True	False	True
+69	California Gov. Gavin Newsom	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	True	False	True	False	True
+69	hydraulic fracturing	INDUSTRY_EMISSIONS	villain	right_bias	True	False	True	False	True
+70	public health	GENERALPUBLIC	victim	right_bias	False	False	False	False	False
+70	Cortez	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	False	False	False
+70	Livestock methane emissions	INDUSTRY_EMISSIONS	villain	right_bias	False	False	False	False	False
+70	Green New Deal	LEGISLATION_POLICIES_RESPONSES	hero	right_bias	False	False	False	False	False
+72	public health	GENERALPUBLIC	victim	right_bias	False	False	False	False	False
+72	farmers	INDUSTRY_EMISSIONS	victim	right_bias	False	False	False	False	False
+72	Methane	INDUSTRY_EMISSIONS	villain	right_bias	False	False	False	False	False
+72	Methane emissions from livestock	INDUSTRY_EMISSIONS	villain	right_bias	False	False	False	False	False
+72	Green new deal	LEGISLATION_POLICIES_RESPONSES	hero	right_bias	False	False	False	False	False
+73	Ecosystems	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	False	False	False	False	False
+73	environment	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	False	False	False	False	False
+73	human health	GENERALPUBLIC	victim	right_bias	False	False	False	False	False
+74	we	GENERALPUBLIC	victim	right_bias	False	False	True	False	False
+74	her	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	True	False	False
+74	AOC	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	True	False	False
+74	climatologist Judith Curry	SCIENCE_EXPERTS_SCI.REPORTS	hero	right_bias	False	False	True	False	False
+74	meteorologist Ryan Maue	SCIENCE_EXPERTS_SCI.REPORTS	hero	right_bias	False	False	True	False	False
+75	Americans	GENERALPUBLIC	victim	right_bias	False	False	False	False	True
+75	minority communities	GENERALPUBLIC	victim	right_bias	False	False	False	False	True
+75	Incoming New York Rep. Alexandria Ocasio-Cortez	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	False	False	True
+75	her plan for a Green New Deal	LEGISLATION_POLICIES_RESPONSES	hero	right_bias	False	False	False	False	True
+76	Tha planet	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	True	False	False	True	False
+76	some ordinary Americans	GENERALPUBLIC	hero	right_bias	True	False	False	True	False
+76	Carbon emissions	INDUSTRY_EMISSIONS	villain	right_bias	True	False	False	True	False
+76	consumption excessive society	INDUSTRY_EMISSIONS	villain	right_bias	True	False	False	True	False
+76	climate action	LEGISLATION_POLICIES_RESPONSES	hero	right_bias	True	False	False	True	False
+77	Perpetual presidential candidate Bernie Sanders	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	True	True	False	False
+77	Farmers	INDUSTRY_EMISSIONS	victim	right_bias	False	True	True	False	False
+77	farmers	INDUSTRY_EMISSIONS	victim	right_bias	False	True	True	False	False
+78	Livestock production	INDUSTRY_EMISSIONS	villain	right_bias	True	False	False	False	False
+78	meat and dairy products	INDUSTRY_EMISSIONS	villain	right_bias	True	False	False	False	False
+78	Lab-grown meat	GREEN_TECHNOLOGY_INNOVATION	hero	right_bias	True	False	False	False	False
+78	The Israeli food technology startup Aleph Farms	GREEN_TECHNOLOGY_INNOVATION	hero	right_bias	True	False	False	False	False
+81	Communities of colour in America	GENERALPUBLIC	victim	left_bias	True	False	True	False	True
+81	poor communities of color	GENERALPUBLIC	victim	left_bias	True	False	True	False	True
+81	Cory Booker	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	True
+81	Cory Booker	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	True
+81	Carbon	INDUSTRY_EMISSIONS	villain	left_bias	True	False	True	False	True
+81	Nuclear Energy	INDUSTRY_EMISSIONS	hero	left_bias	True	False	True	False	True
+84	21 young plaintiffs	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	False	True	False	False
+84	the federal government	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+84	a major climate change lawsuit	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	False	False	True	False	False
+86	the U.S.	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	True	False	True	False	False
+86	Congressional Democrats	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	False
+86	Congressional Republicans	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	False
+86	his	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	False
+86	carbon emissions	INDUSTRY_EMISSIONS	villain	left_bias	True	False	True	False	False
+86	the Green New Deal	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	True	False	False
+86	the Green New Deal	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	True	False	False
+87	Floridians	GENERALPUBLIC	victim	left_bias	True	False	False	False	True
+87	the state's first chief science officer	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	False	False	True
+87	Thomas Frazer	SCIENCE_EXPERTS_SCI.REPORTS	hero	left_bias	True	False	False	False	True
+89	The public/voters	GENERALPUBLIC	victim	left_bias	True	False	False	False	False
+89	the Democratic presidential contenders	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	False	False	False
+89	CNN	MEDIA_JOURNALISTS	hero	left_bias	True	False	False	False	False
+89	CNN	MEDIA_JOURNALISTS	villain	left_bias	True	False	False	False	False
+90	Democrat Presidential Candidates	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	True
+90	Warren	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	True
+90	fossil fuel emissions	INDUSTRY_EMISSIONS	villain	left_bias	True	False	True	False	True
+91	Activists	ENV.ORGS_ACTIVISTS	villain	left_bias	False	False	True	False	False
+91	fossil fuel industry	INDUSTRY_EMISSIONS	villain	left_bias	False	False	True	False	False
+91	renewable energy	GREEN_TECHNOLOGY_INNOVATION	hero	left_bias	False	False	True	False	False
+92	the air	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	False	False	True	False	False
+92	Americans	GENERALPUBLIC	victim	left_bias	False	False	True	False	False
+92	the EPA	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	False	False	True	False	False
+92	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+93	Rural voters	GENERALPUBLIC	victim	left_bias	False	True	True	False	False
+93	The people	GENERALPUBLIC	victim	left_bias	False	True	True	False	False
+93	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	True	True	False	False
+93	Farmers	INDUSTRY_EMISSIONS	victim	left_bias	False	True	True	False	False
+93	farmers	INDUSTRY_EMISSIONS	victim	left_bias	False	True	True	False	False
+94	the Environmental Protection Agency	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	True	False	True	False	False
+94	the EPA	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	False
+94	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	False
+94	Climate policy	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	True	False	False
+94	climate technology	GREEN_TECHNOLOGY_INNOVATION	hero	left_bias	True	False	True	False	False
+94	Green technology	GREEN_TECHNOLOGY_INNOVATION	hero	left_bias	True	False	True	False	False
+95	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	False	False	True
+95	fossil fuels	INDUSTRY_EMISSIONS	villain	left_bias	True	False	False	False	True
+95	Green New Deal	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	False	False	True
+96	Detroiters	GENERALPUBLIC	victim	left_bias	True	True	True	False	False
+96	Rep. Alexandria Ocasio-Cortez D-N.Y.	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	True	True	False	False
+96	Rep. Alexandria Ocasio-Cortez D-N.Y.	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	True	True	True	False	False
+96	auto industry	INDUSTRY_EMISSIONS	villain	left_bias	True	True	True	False	False
+96	Industrial polluters	INDUSTRY_EMISSIONS	villain	left_bias	True	True	True	False	False
+96	industry	INDUSTRY_EMISSIONS	villain	left_bias	True	True	True	False	False
+96	a Green New Deal	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	True	True	False	False
+97	Air quality	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	True	False	True	False	False
+97	people	GENERALPUBLIC	victim	left_bias	True	False	True	False	False
+97	the EPA	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	False
+97	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	False
+97	Clean air regulation	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	True	False	False
+97	observational data, time series, and quasi-experiments	SCIENCE_EXPERTS_SCI.REPORTS	hero	left_bias	True	False	True	False	False
+98	Americans	GENERALPUBLIC	victim	left_bias	True	False	True	False	True
+98	Republicans	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	True
+98	fossil fuel workers	INDUSTRY_EMISSIONS	victim	left_bias	True	False	True	False	True
+98	Global emissions	INDUSTRY_EMISSIONS	villain	left_bias	True	False	True	False	True
+98	Green New Deal	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	True	False	True
+99	3,600 premature deaths a year, 1,700 heart attacks and 90,000 asthma attacks	GENERALPUBLIC	victim	left_bias	True	False	True	False	False
+99	President Donald Trump's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	False
+99	her state	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	False
+99	U.S climate response	LEGISLATION_POLICIES_RESPONSES	victim	left_bias	True	False	True	False	False
+99	Former President Barack Obama's plan	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	True	False	False
+100	climate activists	ENV.ORGS_ACTIVISTS	hero	left_bias	True	False	True	False	False
+100	Democrat President	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	False
+102	Monument	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	False	False	True	False	False
+102	National Parks Conservation Association	ENV.ORGS_ACTIVISTS	hero	left_bias	False	False	True	False	False
+102	indigenous tribes throughout the U.S. Southwest	GENERALPUBLIC	victim	left_bias	False	False	True	False	False
+102	Bureau of Land Management	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+102	The Trump administation	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+103	fires that are raging in the Amazon	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	False	False	True	False	False
+103	Wildfires	ANIMALS_NATURE_ENVIRONMENT	villain	left_bias	False	False	True	False	False
+103	Brazil	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+103	Brazil	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	False	True	False	False
+103	Brazilian Military	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	False	False	True	False	False
+104	climate change	CLIMATECHANGE	victim	left_bias	True	False	False	False	True
+104	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	False	False	True
+104	the United Nations	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	False	False	True
+104	the US	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	False	False	True
+104	UN	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	False	False	True
+109	3 million species of plants and animals and 1 million or so people who call the Amazon home	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	False	False	True	False	False
+109	The Amazon	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	False	False	True	False	False
+109	right-wing President Jair Bolsonaro's environmental policies	LEGISLATION_POLICIES_RESPONSES	villain	left_bias	False	False	True	False	False
+110	Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	False	False	True	False	True
+110	National Economic Council Director Larry Kudlow	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	True
+110	U.S Economy	INDUSTRY_EMISSIONS	victim	left_bias	False	False	True	False	True
+110	Green New Deal	LEGISLATION_POLICIES_RESPONSES	villain	left_bias	False	False	True	False	True
+110	proposal	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	False	False	True	False	True
+111	The Amazon rainforest	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	True	False	True	True	False
+111	The human race	GENERALPUBLIC	victim	left_bias	True	False	True	True	False
+111	Bolsonaro	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	True	False
+111	left parties	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	True	False
+111	The EU	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	True	False
+111	The UN	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	True	False
+112	America's public land	ANIMALS_NATURE_ENVIRONMENT	hero	left_bias	True	False	True	False	True
+112	the Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	True
+112	Democrat President	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	True
+112	Castro	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	True
+112	Castro	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	True
+112	fossil fuel extraction	INDUSTRY_EMISSIONS	villain	left_bias	True	False	True	False	True
+113	human health	GENERALPUBLIC	victim	left_bias	True	False	False	False	False
+113	the EPA	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	True	False	False	False	False
+113	Trump Administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	False	False	False
+113	He	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	False	False	False
+113	US economy	INDUSTRY_EMISSIONS	victim	left_bias	True	False	False	False	False
+113	Obama-era regulations	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	False	False	False
+115	federal and Native American land	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	False	False	True	False	False
+115	public health	GENERALPUBLIC	victim	left_bias	False	False	True	False	False
+115	The Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+115	Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+115	greenhouse gas emissions	INDUSTRY_EMISSIONS	villain	left_bias	False	False	True	False	False
+115	Clean Power Plan	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	False	False	True	False	False
+119	President Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	False
+119	world	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	True	False	True	False	False
+119	Democrat President	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	False
+119	U.S climate response	LEGISLATION_POLICIES_RESPONSES	victim	left_bias	True	False	True	False	False
+119	new standards that had been implemented during the Obama administration	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	True	False	False
+122	America	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	True	False	False	False	True
+122	other candidates	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	False	False	True
+122	Pete Buttigieg	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	False	False	True
+122	Pete Buttigieg	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	False	False	True
+122	Carbon pollution	INDUSTRY_EMISSIONS	villain	left_bias	True	False	False	False	True
+123	The Democratic candidates	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	False
+123	the fossil fuel industry	INDUSTRY_EMISSIONS	villain	left_bias	True	False	True	False	False
+123	Green New Deal	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	True	False	False
+124	Life on Earth	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	True	False	False	False	False
+124	species	ANIMALS_NATURE_ENVIRONMENT	hero	left_bias	True	False	False	False	False
+124	species	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	True	False	False	False	False
+124	tropical forests	ANIMALS_NATURE_ENVIRONMENT	hero	left_bias	True	False	False	False	False
+124	Climate change	CLIMATECHANGE	villain	left_bias	True	False	False	False	False
+124	Deforestation	INDUSTRY_EMISSIONS	villain	left_bias	True	False	False	False	False
+124	scientists	SCIENCE_EXPERTS_SCI.REPORTS	hero	left_bias	True	False	False	False	False
+125	our planet	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	False	False	False	False	False
+125	our future	GENERALPUBLIC	victim	left_bias	False	False	False	False	False
+125	our people	GENERALPUBLIC	victim	left_bias	False	False	False	False	False
+125	Massey	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	False	False	False
+125	Republicans	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	False	False	False
+126	communities of colour	GENERALPUBLIC	victim	left_bias	True	False	False	False	False
+126	minorities	GENERALPUBLIC	victim	left_bias	True	False	False	False	False
+126	Democrat President	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	False	False	False
+126	Sen. Kamala Harris	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	False	False	False
+126	climate pollution	INDUSTRY_EMISSIONS	villain	left_bias	True	False	False	False	False
+126	Green New Deal	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	False	False	False
+128	the United States	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	False	True	False	False
+128	Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+128	the administration's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	False	False	True	False	False
+128	the administration's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+134	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	True
+134	Republican	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	True
+134	fossil fuels	INDUSTRY_EMISSIONS	villain	left_bias	True	False	True	False	True
+134	Farmers	INDUSTRY_EMISSIONS	victim	left_bias	True	False	True	False	True
+134	the Green New Deal	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	True	False	True
+135	Democrats	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	False	True	False	False
+135	Oregan Democrats	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	False	False	True	False	False
+135	Oregon Republicans	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+135	Senate President Peter Courtney	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	False	False	True	False	False
+136	Democrats	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	False	False	True	False	False
+136	Democrat-led States	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	False	True	False	False
+136	EPA Administrator Andrew Wheeler	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+137	William Perry Pendley	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	True	False
+137	director	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	True	False
+138	climate change	CLIMATECHANGE	villain	left_bias	True	False	False	False	False
+138	its	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	False	False	False
+138	the Green New Deal Virginia	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	False	False	False
+139	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	False	False	False
+139	U.S. presidential hopeful Kamala Harris'	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	False	False	False
+139	U.S. presidential hopeful Kamala Harris' campaign	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	False	False	False
+141	the Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	False	False	False
+141	U.S climate response	LEGISLATION_POLICIES_RESPONSES	victim	left_bias	False	False	False	False	False
+141	professor	SCIENCE_EXPERTS_SCI.REPORTS	villain	left_bias	False	False	False	False	False
+145	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	True
+145	O'Rourke	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	True
+145	O'Rourke	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	True
+145	fossil fuel industry	INDUSTRY_EMISSIONS	villain	left_bias	True	False	True	False	True
+145	the Green New Deal	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	True	False	True
+146	1 million species of land and marine species	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	False	False	True	False	True
+146	Endangered species	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	False	False	True	False	True
+146	his	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	False	False	True	False	True
+146	his	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	True
+146	Congress	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	False	False	True	False	True
+146	the Trump administration's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	True
+146	The U.S	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	False	True	False	True
+146	U.S climate response	LEGISLATION_POLICIES_RESPONSES	victim	left_bias	False	False	True	False	True
+147	climate change	CLIMATECHANGE	villain	left_bias	False	False	False	False	False
+147	Baldwin	ENV.ORGS_ACTIVISTS	hero	left_bias	False	False	False	False	False
+147	Ross	ENV.ORGS_ACTIVISTS	hero	left_bias	False	False	False	False	False
+147	Floridians	GENERALPUBLIC	victim	left_bias	False	False	False	False	False
+147	Democrat Presidential Candidates	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	False	False	False	False	False
+147	Miami	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	False	False	False	False
+148	ï»¿Ivanka Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+149	Presidential candidates	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	True
+149	Sanders	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	True
+149	Carbon offsets	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	True	False	True
+150	Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	True
+150	Marine Corps Base Camp Lejeune in North Carolina	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	False	True	False	True
+150	Pentagon	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	True
+150	the defense department	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	False	True	False	True
+150	the Congressionally mandated report	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	False	False	True	False	True
+151	Environmentalists	ENV.ORGS_ACTIVISTS	hero	left_bias	True	False	True	False	True
+151	The Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	True
+151	Obama-era regulations	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	True	False	True
+154	the federal government	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	True	False
+154	capitalism	INDUSTRY_EMISSIONS	villain	left_bias	True	False	True	True	False
+154	the Green New Deal	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	True	True	False
+157	Human Health	GENERALPUBLIC	victim	left_bias	False	False	False	False	False
+157	Humanity	GENERALPUBLIC	victim	left_bias	False	False	False	False	False
+157	America	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	False	False	False	False
+157	EPA	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	False	False	False
+157	Trump's recently installed EPA chief	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	False	False	False
+157	US Economy	INDUSTRY_EMISSIONS	victim	left_bias	False	False	False	False	False
+157	Green New Deal	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	False	False	False	False	False
+161	Amazon rainforest	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	True	False	True	False	True
+161	The Amazon Rainforest	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	True	False	True	False	True
+161	President Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	False	True
+161	The G-7	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	True	False	True
+161	The G-7	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	True	False	True
+161	The G-7	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	True	False	True
+162	global warming	CLIMATECHANGE	villain	left_center_bias	True	False	False	False	False
+162	the United States	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	False	False	False
+162	Senator Bernie Sanders	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	False	False	False
+162	planet-warming greenhouse gases	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	False	False	False
+162	Green New Deal	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	False	False	False
+164	birds	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	False	False	False	False	True
+164	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	False	False	True
+164	wind power industry	GREEN_TECHNOLOGY_INNOVATION	hero	left_center_bias	False	False	False	False	True
+166	the climate crisis	CLIMATECHANGE	villain	left_center_bias	False	False	True	False	True
+166	Democrats vying for president	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	False	False	True	False	True
+166	the republican party	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	False	False	True	False	True
+167	climate change	CLIMATECHANGE	victim	left_center_bias	True	False	True	False	False
+167	climate advocates	ENV.ORGS_ACTIVISTS	hero	left_center_bias	True	False	True	False	False
+167	Democrats	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	True	False	False
+167	Clement	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	True	False	False
+167	Donald Trump's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	False	False
+167	the country's	INDUSTRY_EMISSIONS	victim	left_center_bias	True	False	True	False	False
+167	Green New Deal	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	True	False	False
+168	clean water	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	False	False	True	False	False
+168	Andrew Wheeler	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+168	President Donald Trump's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+168	Obama-era regulations	LEGISLATION_POLICIES_RESPONSES	victim	left_center_bias	False	False	True	False	False
+168	Obama-era environmental regulations	LEGISLATION_POLICIES_RESPONSES	victim	left_center_bias	False	False	True	False	False
+169	an island nation on the frontline of climate change	GENERALPUBLIC	victim	left_center_bias	True	False	False	False	False
+169	the Marshall Islands	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	True	False	False	False	False
+169	US President Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	False	False	False
+169	greenhouse gases	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	False	False	False
+169	the Paris Agreement	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	False	False	False
+174	Americans	GENERALPUBLIC	victim	left_center_bias	True	False	True	False	False
+174	President Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	False	False
+174	Democrats	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	True	False	False
+174	House Natural Resources Committee	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	False	False
+174	Environmental regulations	LEGISLATION_POLICIES_RESPONSES	victim	left_center_bias	True	False	True	False	False
+175	Castro	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	False	False	True
+175	Castro	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	False	False	True
+175	Fracking	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	False	False	True
+175	for subsidizing the National Flood Insurance Program	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	False	False	True
+177	Tetiaroa	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	True	False	False	False	False
+177	Rats	ANIMALS_NATURE_ENVIRONMENT	villain	left_center_bias	True	False	False	False	False
+177	their carbon footprint	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	False	False	False
+177	The Brando	INDUSTRY_EMISSIONS	hero	left_center_bias	True	False	False	False	False
+178	The duke and his wife Meghan	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	False	False	False
+178	The Duke of Sussex	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	False	False	False
+178	the carbon emissions	INDUSTRY_EMISSIONS	victim	left_center_bias	False	False	False	False	False
+178	Carbon offsetting	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	False	False	False	False	False
+179	Americans	GENERALPUBLIC	victim	left_center_bias	False	False	True	False	False
+179	public health	GENERALPUBLIC	victim	left_center_bias	False	False	True	False	False
+179	children	GENERALPUBLIC	victim	left_center_bias	False	False	True	False	False
+179	the Environmental Protection Agency	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	False	False	True	False	False
+179	former coal industry lobbyist Andrew Wheeler	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+179	The Senate	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+179	Collins	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	False	False	True	False	False
+180	labor unions, oil companies	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	True	False	True	False	False
+180	fossil fuels	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	True	False	False
+180	business community	INDUSTRY_EMISSIONS	victim	left_center_bias	True	False	True	False	False
+180	Green New Deal	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	True	False	False
+180	a nonbinding resolution with an uncertain future	LEGISLATION_POLICIES_RESPONSES	villain	left_center_bias	True	False	True	False	False
+180	Jaffe	SCIENCE_EXPERTS_SCI.REPORTS	hero	left_center_bias	True	False	True	False	False
+184	The Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	True
+184	Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	True
+184	Callifornia	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	True
+184	Car manufacturers	INDUSTRY_EMISSIONS	victim	left_center_bias	False	False	True	False	True
+187	Americans	GENERALPUBLIC	victim	left_center_bias	True	False	True	True	False
+187	public interest	GENERALPUBLIC	victim	left_center_bias	True	False	True	True	False
+187	Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	True	False
+187	the White House	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	True	False
+187	Fourth National Climate Assessment	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	True	True	False
+187	climate researchers who place the public interest ahead of political ideology	SCIENCE_EXPERTS_SCI.REPORTS	hero	left_center_bias	True	False	True	True	False
+187	Happer	SCIENCE_EXPERTS_SCI.REPORTS	villain	left_center_bias	True	False	True	True	False
+187	William Happer	SCIENCE_EXPERTS_SCI.REPORTS	villain	left_center_bias	True	False	True	True	False
+188	Amazon fires	ANIMALS_NATURE_ENVIRONMENT	villain	left_center_bias	True	False	True	False	True
+188	The kids	GENERALPUBLIC	victim	left_center_bias	True	False	True	False	True
+188	Bolsonaro	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	False	True
+188	Brazilian President Jair Bolsonaro	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	False	True
+188	G-7 nations	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	True	False	True
+188	government	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	True	False	True
+189	re-wilding	ANIMALS_NATURE_ENVIRONMENT	hero	left_center_bias	True	False	False	False	False
+189	forests	ANIMALS_NATURE_ENVIRONMENT	hero	left_center_bias	True	False	False	False	False
+189	the soil	ANIMALS_NATURE_ENVIRONMENT	villain	left_center_bias	True	False	False	False	False
+189	3.2 billion people worldwide	GENERALPUBLIC	victim	left_center_bias	True	False	False	False	False
+189	carbon	INDUSTRY_EMISSIONS	victim	left_center_bias	True	False	False	False	False
+189	Deforestation	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	False	False	False
+189	Food production	INDUSTRY_EMISSIONS	victim	left_center_bias	True	False	False	False	False
+190	the Amazon rainforest	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	True	True	True	False	True
+190	Brazilian President Jair Bolsonaro	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	True	True	False	True
+190	his French counterpart, Emmanuel Macron	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	True	True	False	True
+190	G7 aid	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	True	True	False	True
+191	The team's	ENV.ORGS_ACTIVISTS	hero	left_center_bias	True	True	False	False	False
+191	the island of Paros	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	True	True	False	False	False
+191	Plastic	INDUSTRY_EMISSIONS	villain	left_center_bias	True	True	False	False	False
+191	Plastic waste	INDUSTRY_EMISSIONS	villain	left_center_bias	True	True	False	False	False
+191	waste management	INDUSTRY_EMISSIONS	villain	left_center_bias	True	True	False	False	False
+191	Clean Blue Paros initiative	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	True	False	False	False
+192	O'Rourke	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	False	False	True	False	True
+192	O'Rourke	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	True
+192	fossil fuels	INDUSTRY_EMISSIONS	villain	left_center_bias	False	False	True	False	True
+193	candidates	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	True	False	True	False	False
+193	Congress	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	True	False	False
+193	House Speaker Nancy Pelosi's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	False	False
+193	resolution	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	True	False	False
+194	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	False	False	False
+194	U.S.	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	False	False	False	False	False
+194	U.S.	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	False	False	False
+194	the world	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	False	False	False	False	False
+194	The Paris Climate Agreement	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	False	False	False	False	False
+202	Democratic presidential candidates	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	False	False	False
+202	Energy Secretary Rick Perry	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	False	False	False
+202	carbon emissions	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	False	False	False
+202	man-made greenhouse gases	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	False	False	False
+202	zero-emissions technology	GREEN_TECHNOLOGY_INNOVATION	hero	left_center_bias	True	False	False	False	False
+203	Brazil's Amazon rainforest	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	False	False	False	False	False
+203	Far-right President Jair Bolsonaro	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	False	False	False
+207	climate change	CLIMATECHANGE	villain	left_center_bias	True	False	True	False	True
+207	the left-leaning Greens'	ENV.ORGS_ACTIVISTS	hero	left_center_bias	True	False	True	False	True
+210	Climate asylum seekers	GENERALPUBLIC	victim	left_center_bias	True	False	False	False	True
+210	O'Rourke	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	False	False	True
+210	O'Rourke	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	False	False	True
+210	O'Rourke	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	False	False	True
+210	his home state of Texas	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	True	False	False	False	True
+210	carbon emissions	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	False	False	True
+210	Carbon emissions	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	False	False	True
+210	Cap-and-trade system	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	False	False	True
+211	millions into poverty	GENERALPUBLIC	victim	left_center_bias	True	False	True	False	False
+211	Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	False	False
+211	the United States	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	True	False	True	False	False
+211	the United States	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	True	False	True	False	False
+211	Pope	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	True	False	False
+211	the Paris climate agreement	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	True	False	False
+212	carbon emissions	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	False	True	True
+212	emissions	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	False	True	True
+212	Green New Deal	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	False	True	True
+212	a bold new proposal for tackling global warming	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	False	True	True
+213	Climate activists	ENV.ORGS_ACTIVISTS	hero	left_center_bias	False	False	True	False	False
+213	President Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+213	Florida	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	False	False	True	False	False
+213	South Florida	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	False	False	True	False	False
+215	President Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	False	False	True
+215	The United States	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	False	False	False	False	True
+215	greenhouse gases	INDUSTRY_EMISSIONS	villain	left_center_bias	False	False	False	False	True
+216	extreme heat	ANIMALS_NATURE_ENVIRONMENT	villain	left_center_bias	False	False	False	False	False
+216	face temperatures of 90F 32C and higher	ANIMALS_NATURE_ENVIRONMENT	villain	left_center_bias	False	False	False	False	False
+216	Americans	GENERALPUBLIC	victim	left_center_bias	False	False	False	False	False
+219	California	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	False	False	True	False	True
+219	California	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	False	False	True	False	True
+219	The Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	True
+219	Environmental Protection Agency Administrator Andrew Wheeler	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	False	False	True	False	True
+221	climate	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	True	False	True	False	False
+221	land and marine animals	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	True	False	True	False	False
+221	President Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	False	False
+221	a U.S. judge	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	True	False	False
+221	U.S. District Court	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	True	False	False
+222	The environment	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	True	False	False	False	False
+222	climate change	CLIMATECHANGE	victim	left_center_bias	True	False	False	False	False
+222	Plastic bags	INDUSTRY_EMISSIONS	hero	left_center_bias	True	False	False	False	False
+223	people	GENERALPUBLIC	victim	left_center_bias	True	False	False	False	False
+223	people in the pollution	GENERALPUBLIC	victim	left_center_bias	True	False	False	False	False
+223	South Asians	GENERALPUBLIC	victim	left_center_bias	True	False	False	False	False
+223	China	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	False	False	False
+223	India's Supreme Court	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	False	False	False
+223	Supreme Court	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	False	False	False
+223	agricultural burning	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	False	False	False
+223	The burning	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	False	False	False
+225	Air quality	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	False	False	False	False	False
+225	premature deaths	GENERALPUBLIC	victim	left_center_bias	False	False	False	False	False
+225	health	GENERALPUBLIC	victim	left_center_bias	False	False	False	False	False
+225	The Environmental Protection Agency	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	False	False	False
+225	Clean Power Plan	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	False	False	False	False	False
+227	His	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	False	False	False
+227	Jay Inslee	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	False	False	False	False	False
+228	climate change	CLIMATECHANGE	victim	left_center_bias	True	False	False	False	True
+228	Owner Peter Melnik, a fourth-generation dairy farmer	GENERALPUBLIC	hero	left_center_bias	True	False	False	False	True
+228	Food waste in landfills	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	False	False	True
+228	Wasted food	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	False	False	True
+228	waste	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	False	False	True
+228	Vanguard Renewables	GREEN_TECHNOLOGY_INNOVATION	hero	left_center_bias	True	False	False	False	True
+228	an anaerobic digester	GREEN_TECHNOLOGY_INNOVATION	hero	left_center_bias	True	False	False	False	True
+229	the United States	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	False	False	False
+229	Nations	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	False	False	False
+229	Nations	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	True	False	False	False	False
+229	Global greenhouse gas emissions	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	False	False	False
+229	Global greenhouse gas emissions	INDUSTRY_EMISSIONS	victim	left_center_bias	True	False	False	False	False
+229	a special United Nations Summit on climate change	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	False	False	False
+229	the 2015 Paris Agreement on climate change	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	False	False	False
+230	Climate change	CLIMATECHANGE	villain	left_center_bias	False	False	True	False	False
+230	the Australian city of Sydney	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	False	False	True	False	False
+230	The government	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	False	False	True	False	False
+230	The government	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+231	youth climate activism	ENV.ORGS_ACTIVISTS	hero	left_center_bias	True	False	True	False	False
+231	they	ENV.ORGS_ACTIVISTS	hero	left_center_bias	True	False	True	False	False
+231	they	ENV.ORGS_ACTIVISTS	victim	left_center_bias	True	False	True	False	False
+231	Louisiana Republican Rep. Garret Graves	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	False	False
+233	reforestation	ANIMALS_NATURE_ENVIRONMENT	hero	left_center_bias	True	False	False	False	False
+233	Earth	GENERALPUBLIC	victim	left_center_bias	True	False	False	False	False
+233	Emissions from agricultural production	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	False	False	False
+233	the United Nations panel on climate change	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	False	False	False
+237	human-induced climate change	CLIMATECHANGE	villain	left_center_bias	False	True	False	False	False
+237	international community	GENERALPUBLIC	hero	left_center_bias	False	True	False	False	False
+237	Mozambique	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	False	True	False	False	False
+237	the southern African nation	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	False	True	False	False	False
+237	cyclone-hit northern Mozambique	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	True	False	False	False
+238	planet	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	True	False	True	False	False
+238	the Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	False	False
+238	Carbon emissions	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	True	False	False
+238	The Green New Deal	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	True	False	False
+238	U.S climate response	LEGISLATION_POLICIES_RESPONSES	victim	left_center_bias	True	False	True	False	False
+239	Schumer	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	True	False	False
+239	the Trump administration's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	False	False
+239	Green New Deal	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	True	False	False
+239	the science behind climate change	SCIENCE_EXPERTS_SCI.REPORTS	victim	left_center_bias	True	False	True	False	False
+240	climate and ecological crisis	CLIMATECHANGE	victim	questionable_source	False	True	True	False	False
+240	Greta Thunberg	ENV.ORGS_ACTIVISTS	hero	questionable_source	False	True	True	False	False
+240	People	GENERALPUBLIC	victim	questionable_source	False	True	True	False	False
+240	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	True	True	False	False
+240	international delegates	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	True	True	False	False
+242	The globe	ANIMALS_NATURE_ENVIRONMENT	victim	questionable_source	True	True	True	True	False
+242	Thunberg	ENV.ORGS_ACTIVISTS	hero	questionable_source	True	True	True	True	False
+242	Thunberg	ENV.ORGS_ACTIVISTS	villain	questionable_source	True	True	True	True	False
+242	We	ENV.ORGS_ACTIVISTS	hero	questionable_source	True	True	True	True	False
+242	one young woman	GENERALPUBLIC	victim	questionable_source	True	True	True	True	False
+242	we	GENERALPUBLIC	victim	questionable_source	True	True	True	True	False
+242	the people	GENERALPUBLIC	victim	questionable_source	True	True	True	True	False
+242	United Nations	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	True	True	True	True	False
+242	Climate emissions	INDUSTRY_EMISSIONS	villain	questionable_source	True	True	True	True	False
+242	polluters	INDUSTRY_EMISSIONS	villain	questionable_source	True	True	True	True	False
+245	Republican Party	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	True	False	False	False	True
+245	some young conservatives	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	True	False	False	False	True
+245	the Young Conservatives for Carbon Dividends	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	True	False	False	False	True
+245	Fossil fuel companies	INDUSTRY_EMISSIONS	villain	questionable_source	True	False	False	False	True
+245	Carbon tax	LEGISLATION_POLICIES_RESPONSES	hero	questionable_source	True	False	False	False	True
+250	A young activist from US Youth Climate Strike	ENV.ORGS_ACTIVISTS	victim	questionable_source	False	False	True	False	False
+250	Joe Biden	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	False	True	False	False
+252	mining and agricultural communities	GENERALPUBLIC	victim	questionable_source	False	False	False	True	True
+252	people	GENERALPUBLIC	victim	questionable_source	False	False	False	True	True
+252	Democrats	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	False	False	True	True
+252	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	False	False	False	True	True
+252	the top ten Democratic candidates for president in 2020	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	False	False	True	True
+252	U.S Economy	INDUSTRY_EMISSIONS	victim	questionable_source	False	False	False	True	True
+252	CNN	MEDIA_JOURNALISTS	villain	questionable_source	False	False	False	True	True
+253	Amazon rainforest	ANIMALS_NATURE_ENVIRONMENT	victim	questionable_source	True	False	True	False	False
+253	The Amazon Rainforest	ANIMALS_NATURE_ENVIRONMENT	victim	questionable_source	True	False	True	False	False
+253	Wildfires	ANIMALS_NATURE_ENVIRONMENT	villain	questionable_source	True	False	True	False	False
+253	G7 nations	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	True	False	True	False	False
+253	Macron	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	True	False	True	False	False
+253	President Bolsonaro	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	True	False	True	False	False
+253	President Bolsonaro	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	True	False	True	False	False
+254	man-made climate change	CLIMATECHANGE	villain	questionable_source	True	False	False	False	True
+254	Black Communities	GENERALPUBLIC	victim	questionable_source	True	False	False	False	True
+254	People of color	GENERALPUBLIC	hero	questionable_source	True	False	False	False	True
+254	People of color	GENERALPUBLIC	victim	questionable_source	True	False	False	False	True
+254	Green New Deal	LEGISLATION_POLICIES_RESPONSES	hero	questionable_source	True	False	False	False	True
+254	lawmakers	LEGISLATION_POLICIES_RESPONSES	hero	questionable_source	True	False	False	False	True
+259	Climate change	CLIMATECHANGE	villain	questionable_source	False	False	True	False	False
+259	the climate change activists who are striking on Black Friday	ENV.ORGS_ACTIVISTS	villain	questionable_source	False	False	True	False	False
+259	Humanity's future	GENERALPUBLIC	victim	questionable_source	False	False	True	False	False
+259	shoppers at the Water Tower Place	GENERALPUBLIC	victim	questionable_source	False	False	True	False	False
+259	Congress	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	False	True	False	False
+259	Congress	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	False	False	True	False	False
+260	Americans	GENERALPUBLIC	victim	questionable_source	True	False	False	False	False
+260	Democrat presidential candidate and billionaire Tom Steyer	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	True	False	False	False	False
+260	Fossil fuels	INDUSTRY_EMISSIONS	villain	questionable_source	True	False	False	False	False
+263	President Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	True	False	True	False	True
+263	Congresswoman Alexandria Ocasio-Cortez	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	True	False	True	False	True
+263	fossil fuels	INDUSTRY_EMISSIONS	villain	questionable_source	True	False	True	False	True
+263	nuclear power	INDUSTRY_EMISSIONS	hero	questionable_source	True	False	True	False	True
+263	US economy	INDUSTRY_EMISSIONS	victim	questionable_source	True	False	True	False	True
+263	Green New Deal	LEGISLATION_POLICIES_RESPONSES	hero	questionable_source	True	False	True	False	True
+263	the Green New Deal	LEGISLATION_POLICIES_RESPONSES	hero	questionable_source	True	False	True	False	True
+265	Global warming activist Greta Thunberg	ENV.ORGS_ACTIVISTS	hero	questionable_source	False	False	True	False	False
+265	President Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	False	True	False	False
+265	President Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	questionable_source	False	False	True	False	False
+266	his	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	False	False	True	False
+266	his	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	questionable_source	False	False	False	True	False
+266	Pope Francis	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	False	False	True	False
+270	woman	GENERALPUBLIC	victim	questionable_source	False	False	True	False	False
+270	Biden	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	False	False	True	False	False
+270	Biden	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	False	True	False	False
+270	fossil fuel corporations	INDUSTRY_EMISSIONS	villain	questionable_source	False	False	True	False	False
+271	water supply	ANIMALS_NATURE_ENVIRONMENT	victim	questionable_source	True	False	False	False	False
+271	climate change	CLIMATECHANGE	victim	questionable_source	True	False	False	False	False
+271	Communities	GENERALPUBLIC	victim	questionable_source	True	False	False	False	False
+271	surrounding communities	GENERALPUBLIC	victim	questionable_source	True	False	False	False	False
+271	Sanders	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	True	False	False	False	False
+271	Fracking	INDUSTRY_EMISSIONS	villain	questionable_source	True	False	False	False	False
+277	Community protest	ENV.ORGS_ACTIVISTS	hero	questionable_source	False	False	False	False	False
+277	Bottled water firm Crystal Geyser's	INDUSTRY_EMISSIONS	villain	questionable_source	False	False	False	False	False
+277	the local press	MEDIA_JOURNALISTS	hero	questionable_source	False	False	False	False	False
+278	Elizabeth Warren	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	True	False	False	False	False
+278	fossil fuels	INDUSTRY_EMISSIONS	villain	questionable_source	True	False	False	False	False
+278	Fracking	INDUSTRY_EMISSIONS	villain	questionable_source	True	False	False	False	False
+278	Fracking	INDUSTRY_EMISSIONS	villain	questionable_source	True	False	False	False	False
+278	Elizabeth Warren Promises Day One Executive Order on Fossil Fuel Leases, Pledges to Ban Fracking Warren	LEGISLATION_POLICIES_RESPONSES	hero	questionable_source	True	False	False	False	False
+279	strike	ENV.ORGS_ACTIVISTS	hero	questionable_source	False	True	True	False	False
+279	Teenage climate activist Greta Thunberg	ENV.ORGS_ACTIVISTS	villain	questionable_source	False	True	True	False	False
+279	Teenage climate activist Greta Thunberg	ENV.ORGS_ACTIVISTS	victim	questionable_source	False	True	True	False	False
+279	her mother	GENERALPUBLIC	victim	questionable_source	False	True	True	False	False
+279	us	GENERALPUBLIC	victim	questionable_source	False	True	True	False	False
+279	emissions	INDUSTRY_EMISSIONS	villain	questionable_source	False	True	True	False	False
+282	environement	ANIMALS_NATURE_ENVIRONMENT	victim	questionable_source	False	False	False	True	False
+282	Pope Francis	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	False	False	False	True	False
+282	the Catholic Church	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	False	False	False	True	False
+282	Corporations	INDUSTRY_EMISSIONS	villain	questionable_source	False	False	False	True	False
+282	Pollution	INDUSTRY_EMISSIONS	villain	questionable_source	False	False	False	True	False
+283	The planet	ANIMALS_NATURE_ENVIRONMENT	victim	questionable_source	True	False	True	False	False
+283	The planet	ANIMALS_NATURE_ENVIRONMENT	victim	questionable_source	True	False	True	False	False
+283	Climate change	CLIMATECHANGE	villain	questionable_source	True	False	True	False	False
+283	Thunberg	ENV.ORGS_ACTIVISTS	hero	questionable_source	True	False	True	False	False
+283	Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	True	False	True	False	False
+283	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	True	False	True	False	False
+283	U.S Politicians	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	True	False	True	False	False
+283	human activity	INDUSTRY_EMISSIONS	villain	questionable_source	True	False	True	False	False
+286	ordinary citizens	GENERALPUBLIC	victim	questionable_source	False	True	True	True	False
+286	Progressive political elites	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	True	True	True	False
+287	the U.S.	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	True	False	False	False	False
+287	China the planet's worst greenhouse gas emitter	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	True	False	False	False	False
+288	global warming	CLIMATECHANGE	villain	questionable_source	False	False	True	False	False
+288	climate alarmists	ENV.ORGS_ACTIVISTS	villain	questionable_source	False	False	True	False	False
+288	Great Britain	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	questionable_source	False	False	True	False	False
+288	The declaration's signers	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	False	False	True	False	False
+288	European Climate Declaration	LEGISLATION_POLICIES_RESPONSES	hero	questionable_source	False	False	True	False	False
+289	President Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	False	True	False	False
+289	the United Nations	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	False	False	True	False	False
+289	Global climate response	LEGISLATION_POLICIES_RESPONSES	victim	questionable_source	False	False	True	False	False
+289	the global warming meeting	LEGISLATION_POLICIES_RESPONSES	victim	questionable_source	False	False	True	False	False
+290	President Donald Trump's eldest son Don Jr.	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	False	True	False	False
+291	Environmentalists in California	ENV.ORGS_ACTIVISTS	hero	questionable_source	False	False	True	False	True
+291	Environmentalists in California	ENV.ORGS_ACTIVISTS	villain	questionable_source	False	False	True	False	True
+291	Californians	GENERALPUBLIC	victim	questionable_source	False	False	True	False	True
+291	cooks who love to prepare food with flame	GENERALPUBLIC	victim	questionable_source	False	False	True	False	True
+291	Natural gas	INDUSTRY_EMISSIONS	villain	questionable_source	False	False	True	False	True
+291	natural gas companies	INDUSTRY_EMISSIONS	victim	questionable_source	False	False	True	False	True
+292	Democratic presidential frontrunner Joe Biden	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	False	True	False	False
+294	minority communities	GENERALPUBLIC	victim	questionable_source	True	False	False	False	True
+294	minority communties	GENERALPUBLIC	victim	questionable_source	True	False	False	False	True
+294	Sen. Elizabeth Warren D-MA	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	True	False	False	False	True
+294	Industrial pollution	INDUSTRY_EMISSIONS	villain	questionable_source	True	False	False	False	True
+297	he	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	False	False	False	True
+297	Southern California	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	questionable_source	False	False	False	False	True
+297	Natural gas	INDUSTRY_EMISSIONS	villain	questionable_source	False	False	False	False	True
+297	Green New Deal	LEGISLATION_POLICIES_RESPONSES	hero	questionable_source	False	False	False	False	True
+300	Swedish teen climate activist Greta Thunberg	ENV.ORGS_ACTIVISTS	hero	questionable_source	False	False	True	False	False
+300	Swedish teen climate activist Greta Thunberg	ENV.ORGS_ACTIVISTS	villain	questionable_source	False	False	True	False	False
+300	US President Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	False	False	True	False	False
+300	US President Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	False	True	False	False
+304	biodiversity	ANIMALS_NATURE_ENVIRONMENT	victim	questionable_source	True	False	False	True	False
+304	the Earth	ANIMALS_NATURE_ENVIRONMENT	victim	questionable_source	True	False	False	True	False
+304	Christians	GENERALPUBLIC	hero	questionable_source	True	False	False	True	False
+304	Madagascar	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	questionable_source	True	False	False	True	False
+304	Pope Francis	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	True	False	False	True	False
+304	excessive deforestation	INDUSTRY_EMISSIONS	villain	questionable_source	True	False	False	True	False
+304	greenhouse gas emissions	INDUSTRY_EMISSIONS	villain	questionable_source	True	False	False	True	False
+305	Democratic presidential frontrunner Joe Biden	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	False	True	False	False
+308	drought	ANIMALS_NATURE_ENVIRONMENT	villain	questionable_source	False	True	False	False	False
+308	Global climate change	CLIMATECHANGE	villain	questionable_source	False	True	False	False	False
+308	Indians	GENERALPUBLIC	victim	questionable_source	False	True	False	False	False
+308	India	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	True	False	False	False
+308	India	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	questionable_source	False	True	False	False	False
+308	Improved water distribution systems	GREEN_TECHNOLOGY_INNOVATION	hero	questionable_source	False	True	False	False	False
+309	Hurricane Maria	ANIMALS_NATURE_ENVIRONMENT	villain	questionable_source	True	False	False	False	False
+309	with the climate crisis	CLIMATECHANGE	villain	questionable_source	True	False	False	False	False
+309	the poorest communities	GENERALPUBLIC	victim	questionable_source	True	False	False	False	False
+309	Puerto Rico	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	questionable_source	True	False	False	False	False
+309	his climate plan	LEGISLATION_POLICIES_RESPONSES	hero	questionable_source	True	False	False	False	False
+309	Julian Castro's Climate Plan	LEGISLATION_POLICIES_RESPONSES	hero	questionable_source	True	False	False	False	False
+310	the US	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	False	False	False	False	False
+310	coal	INDUSTRY_EMISSIONS	villain	questionable_source	False	False	False	False	False
+310	The trend	INDUSTRY_EMISSIONS	villain	questionable_source	False	False	False	False	False
+310	Renewables	GREEN_TECHNOLOGY_INNOVATION	hero	questionable_source	False	False	False	False	False
+314	Amron	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	True	False	True
+314	New York City's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	False	False	True	False	True
+314	Susan Amron	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	True	False	True
+314	oil companies	INDUSTRY_EMISSIONS	villain	right_bias	False	False	True	False	True
+314	the industry's	INDUSTRY_EMISSIONS	victim	right_bias	False	False	True	False	True
+314	New York City's climate lawsuits	LEGISLATION_POLICIES_RESPONSES	hero	right_bias	False	False	True	False	True
+315	the country	GENERALPUBLIC	victim	right_bias	True	False	True	False	False
+315	California	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	True	False	False
+315	President Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	True	False	True	False	False
+315	America	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	True	False	True	False	False
+315	Jerry Brown	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	True	False	False
+316	the U.S.	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	True	True	True	False	True
+316	the Obama administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	True	True	True	False	True
+316	the Trump White House	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	True	True	False	True
+316	The U.S	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	True	True	True	False	True
+316	American fossil-fuel energy development	INDUSTRY_EMISSIONS	victim	right_bias	True	True	True	False	True
+316	Fossil fuel industries	INDUSTRY_EMISSIONS	victim	right_bias	True	True	True	False	True
+316	memorandum	LEGISLATION_POLICIES_RESPONSES	villain	right_bias	True	True	True	False	True
+317	activists and politicians linking natural disasters to man-made global warming	ENV.ORGS_ACTIVISTS	villain	right_bias	False	False	True	False	False
+317	politicians	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	True	False	False
+317	journalists	MEDIA_JOURNALISTS	villain	right_bias	False	False	True	False	False
+317	The New York Times'	MEDIA_JOURNALISTS	villain	right_bias	False	False	True	False	False
+317	Pielke	SCIENCE_EXPERTS_SCI.REPORTS	victim	right_bias	False	False	True	False	False
+317	scientists	SCIENCE_EXPERTS_SCI.REPORTS	villain	right_bias	False	False	True	False	False
+317	University of Colorado professor Roger Pielke Jr	SCIENCE_EXPERTS_SCI.REPORTS	victim	right_bias	False	False	True	False	False
+317	University of Colorado professor Roger Pielke Jr.	SCIENCE_EXPERTS_SCI.REPORTS	hero	right_bias	False	False	True	False	False
+317	University of Colorado professor Roger Pielke Jr.	SCIENCE_EXPERTS_SCI.REPORTS	victim	right_bias	False	False	True	False	False
+320	Pope Francis	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	True	False	True	True	True
+320	Pope Francis	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	True	True	True
+320	Big Oil	INDUSTRY_EMISSIONS	villain	right_bias	True	False	True	True	True
+320	Manufacturing Sector	INDUSTRY_EMISSIONS	victim	right_bias	True	False	True	True	True
+320	a tax on carbon dioxide pollution	LEGISLATION_POLICIES_RESPONSES	hero	right_bias	True	False	True	True	True
+322	The GOP	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	False	False	True
+322	the GOP (controlling the Senate and White House)	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	False	False	True
+322	Rooney	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	False	False	False	False	True
+322	us	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	False	False	False	False	True
+322	legislation	LEGISLATION_POLICIES_RESPONSES	hero	right_bias	False	False	False	False	True
+322	legislation	LEGISLATION_POLICIES_RESPONSES	villain	right_bias	False	False	False	False	True
+322	legislation	LEGISLATION_POLICIES_RESPONSES	victim	right_bias	False	False	False	False	True
+324	Environmental left	ENV.ORGS_ACTIVISTS	villain	right_bias	False	True	True	True	False
+324	a carbon tax initiative favored by activists	LEGISLATION_POLICIES_RESPONSES	villain	right_bias	False	True	True	True	False
+324	Climate scientist Cliff Mass	SCIENCE_EXPERTS_SCI.REPORTS	victim	right_bias	False	True	True	True	False
+326	employees	INDUSTRY_EMISSIONS	victim	right_bias	False	False	False	False	False
+326	WeWork	INDUSTRY_EMISSIONS	hero	right_bias	False	False	False	False	False
+326	WeWork	INDUSTRY_EMISSIONS	villain	right_bias	False	False	False	False	False
+327	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	True	False	False
+327	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	True	False	True	False	False
+327	the Washington Post and others	MEDIA_JOURNALISTS	villain	right_bias	True	False	True	False	False
+327	the best-available science	SCIENCE_EXPERTS_SCI.REPORTS	hero	right_bias	True	False	True	False	False
+330	carbon dioxide emissions	INDUSTRY_EMISSIONS	villain	right_bias	True	False	True	False	True
+330	gas prices	INDUSTRY_EMISSIONS	victim	right_bias	True	False	True	False	True
+330	a tax on carbon dioxide emissions	LEGISLATION_POLICIES_RESPONSES	hero	right_bias	True	False	True	False	True
+331	A federal judge	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	False	False	False
+331	U.S. State Department	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	True	False	False	False	False
+331	udge Brian Morris of the U.S. District Court	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	False	False	False
+331	the Keystone XL pipeline	INDUSTRY_EMISSIONS	villain	right_bias	True	False	False	False	False
+331	the TransCanada Corporation	INDUSTRY_EMISSIONS	villain	right_bias	True	False	False	False	False
+331	the TransCanada Keystone Pipeline	INDUSTRY_EMISSIONS	villain	right_bias	True	False	False	False	False
+332	A federal judge	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	True	False	True
+332	A federal judge	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	True	False	True	False	True
+332	Congress	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	True	False	True
+332	two California cities waging a legal battle	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	True	False	True	False	True
+332	two California cities waging a legal battle	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	True	False	True	False	True
+332	ExxonMobil	INDUSTRY_EMISSIONS	victim	right_bias	True	False	True	False	True
+333	manipulative climate activists	ENV.ORGS_ACTIVISTS	villain	right_bias	False	True	True	False	True
+333	a middle class that sees itself squeezed	GENERALPUBLIC	victim	right_bias	False	True	True	False	True
+333	elites	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	True	True	False	True
+333	economic freedom	INDUSTRY_EMISSIONS	hero	right_bias	False	True	True	False	True
+334	the nearly 350,000-acre Mendocino Complex Fire	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	True	False	True	False	False
+334	environmentalists	ENV.ORGS_ACTIVISTS	villain	right_bias	True	False	True	False	False
+334	Forest Service	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	True	False	False
+334	West Coast states	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	True	False	True	False	False
+334	environmental laws	LEGISLATION_POLICIES_RESPONSES	villain	right_bias	True	False	True	False	False
+334	land management	LEGISLATION_POLICIES_RESPONSES	hero	right_bias	True	False	True	False	False
+338	bird population	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	False	False	True	False	True
+338	Birds	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	False	False	True	False	True
+338	local aquatic ecosystem	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	False	False	True	False	True
+338	Wind farms	GREEN_TECHNOLOGY_INNOVATION	villain	right_bias	False	False	True	False	True
+338	a small offshore wind farm	GREEN_TECHNOLOGY_INNOVATION	villain	right_bias	False	False	True	False	True
+339	taxpayers	GENERALPUBLIC	victim	right_bias	True	False	True	False	True
+339	Progressive cities	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	True	False	True	False	True
+339	U.S. Courts	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	True	False	True
+339	US District Judge William Alsup	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	True	False	True
+344	we	GENERALPUBLIC	hero	right_bias	True	False	False	False	True
+344	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	False	False	True
+344	Free market	INDUSTRY_EMISSIONS	hero	right_bias	True	False	False	False	True
+344	the Paris climate agreement	LEGISLATION_POLICIES_RESPONSES	villain	right_bias	True	False	False	False	True
+345	the atmosphere	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	True	False	False	False	False
+345	The environment	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	True	False	False	False	False
+345	water quality	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	True	False	False	False	False
+345	wildlife	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	True	False	False	False	False
+345	human health	GENERALPUBLIC	victim	right_bias	True	False	False	False	False
+345	Pruitt	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	False	False	False
+345	the Environmental Protection Agency	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	False	False	False
+345	the Environmental Protection Agency	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	True	False	False	False	False
+345	Ethanol	INDUSTRY_EMISSIONS	villain	right_bias	True	False	False	False	False
+345	ethanol into the U.S. gas supply	INDUSTRY_EMISSIONS	villain	right_bias	True	False	False	False	False
+345	Envrionmental laws	LEGISLATION_POLICIES_RESPONSES	hero	right_bias	True	False	False	False	False
+351	activist shareholders	ENV.ORGS_ACTIVISTS	villain	right_bias	False	False	False	False	False
+351	other energy companies	INDUSTRY_EMISSIONS	victim	right_bias	False	False	False	False	False
+351	Shell	INDUSTRY_EMISSIONS	hero	right_bias	False	False	False	False	False
+354	the ' Green Sahara'	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	False	False	False	False	False
+354	Climate change	CLIMATECHANGE	villain	right_bias	False	False	False	False	False
+354	pastoralists	GENERALPUBLIC	hero	right_bias	False	False	False	False	False
+354	Sustainable pastoralism	GREEN_TECHNOLOGY_INNOVATION	hero	right_bias	False	False	False	False	False
+358	environment	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	False	False	True	False	False
+358	California Democratic Gov. Jerry Brown	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	True	False	False
+358	net negative emissions	INDUSTRY_EMISSIONS	hero	right_bias	False	False	True	False	False
+361	people	GENERALPUBLIC	victim	right_bias	True	False	False	False	True
+361	Wyoming's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	True	False	False	False	True
+361	Reliance on fossil fuels	INDUSTRY_EMISSIONS	villain	right_bias	True	False	False	False	True
+361	plans	LEGISLATION_POLICIES_RESPONSES	hero	right_bias	True	False	False	False	True
+361	Wind energy	GREEN_TECHNOLOGY_INNOVATION	hero	right_bias	True	False	False	False	True
+363	Americans	GENERALPUBLIC	victim	right_bias	True	False	False	False	False
+363	Californians	GENERALPUBLIC	victim	right_bias	True	False	False	False	False
+363	EPA	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	True	False	False	False	False
+363	power plant and industrial smokestacks	INDUSTRY_EMISSIONS	villain	right_bias	True	False	False	False	False
+363	vehicle emissions	INDUSTRY_EMISSIONS	villain	right_bias	True	False	False	False	False
+363	Envrionmental laws	LEGISLATION_POLICIES_RESPONSES	hero	right_bias	True	False	False	False	False
+363	the American Lung Association's	SCIENCE_EXPERTS_SCI.REPORTS	hero	right_bias	True	False	False	False	False
+366	NGOs and Non-profit organisations	ENV.ORGS_ACTIVISTS	hero	right_bias	True	True	False	False	True
+366	Ulaanbaatar residents	GENERALPUBLIC	victim	right_bias	True	True	False	False	True
+366	Mongolian Government	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	True	False	False	True
+366	the government	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	True	False	False	True
+366	the government	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	True	True	False	False	True
+366	carbon pollution	INDUSTRY_EMISSIONS	villain	right_bias	True	True	False	False	True
+366	smog	INDUSTRY_EMISSIONS	villain	right_bias	True	True	False	False	True
+367	Numerous jurisdictions	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	True	False	False
+367	energy companies	INDUSTRY_EMISSIONS	victim	right_bias	False	False	True	False	False
+367	Lawsuits against energy companies	LEGISLATION_POLICIES_RESPONSES	villain	right_bias	False	False	True	False	False
+367	The Union of Concerned Scientists	SCIENCE_EXPERTS_SCI.REPORTS	villain	right_bias	False	False	True	False	False
+369	carbon tax supporters	ENV.ORGS_ACTIVISTS	villain	right_bias	False	False	True	False	True
+369	Green activists	ENV.ORGS_ACTIVISTS	villain	right_bias	False	False	True	False	True
+369	carbon tax proposal	LEGISLATION_POLICIES_RESPONSES	villain	right_bias	False	False	True	False	True
+370	Forest management	ANIMALS_NATURE_ENVIRONMENT	hero	right_bias	True	False	True	False	False
+370	California forests	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	True	False	True	False	False
+370	California's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	True	False	True	False	False
+370	California's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	True	False	True	False	False
+370	California's environmental laws	LEGISLATION_POLICIES_RESPONSES	villain	right_bias	True	False	True	False	False
+370	forest management policies	LEGISLATION_POLICIES_RESPONSES	hero	right_bias	True	False	True	False	False
+371	America's GDP	INDUSTRY_EMISSIONS	victim	right_bias	False	False	False	False	False
+371	outdated climate modeling	SCIENCE_EXPERTS_SCI.REPORTS	villain	right_bias	False	False	False	False	False
+371	The report	SCIENCE_EXPERTS_SCI.REPORTS	villain	right_bias	False	False	False	False	False
+374	President Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	True	False	False	False	False
+374	the world's leaders	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	False	False	False
+374	Paris Accord	LEGISLATION_POLICIES_RESPONSES	hero	right_bias	True	False	False	False	False
+375	wildfires	ANIMALS_NATURE_ENVIRONMENT	villain	right_bias	False	False	True	False	False
+375	mad-made global warming	CLIMATECHANGE	villain	right_bias	False	False	True	False	False
+375	Californians	GENERALPUBLIC	victim	right_bias	False	False	True	False	False
+375	California	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	False	False	True	False	False
+375	Trump Says 'Bad Environmental Laws' Made Deadly California Wildfires Even Worse President Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	False	False	True	False	False
+375	Bad' environmental laws	LEGISLATION_POLICIES_RESPONSES	villain	right_bias	False	False	True	False	False
+378	California	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	False	False	True	False	True
+378	the Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	True	False	True
+379	Hurricane Florence	ANIMALS_NATURE_ENVIRONMENT	villain	right_bias	False	False	False	False	False
+379	global warming	CLIMATECHANGE	villain	right_bias	False	False	False	False	False
+379	North Carolina	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	False	False	False	False	False
+379	Green policies	LEGISLATION_POLICIES_RESPONSES	hero	right_bias	False	False	False	False	False
+381	The United Nations Intergovernmental Panel On Climate Change's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	False	False	True	False	False
+381	Mediterranean	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	False	False	True	False	False
+381	North America	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	False	False	True	False	False
+381	global economy	INDUSTRY_EMISSIONS	victim	right_bias	False	False	True	False	False
+381	Media outlets	MEDIA_JOURNALISTS	villain	right_bias	False	False	True	False	False
+381	other media outlets	MEDIA_JOURNALISTS	villain	right_bias	False	False	True	False	False
+381	University of Colorado professor Roger Pielke, Jr.	SCIENCE_EXPERTS_SCI.REPORTS	hero	right_bias	False	False	True	False	False
+382	Rose Strauss	ENV.ORGS_ACTIVISTS	hero	right_bias	False	True	True	False	True
+382	Rose Strauss	ENV.ORGS_ACTIVISTS	villain	right_bias	False	True	True	False	True
+382	Gov. Tom Wolf	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	False	True	True	False	True
+382	Fossil fuel industry	INDUSTRY_EMISSIONS	villain	right_bias	False	True	True	False	True
+383	oil and gas drilling operations	INDUSTRY_EMISSIONS	victim	right_bias	False	False	True	False	True
+383	Envrionmental policy	LEGISLATION_POLICIES_RESPONSES	hero	right_bias	False	False	True	False	True
+383	The ballot measure, called Initiative 1631	LEGISLATION_POLICIES_RESPONSES	villain	right_bias	False	False	True	False	True
+384	energy companies	INDUSTRY_EMISSIONS	victim	right_bias	False	False	True	False	True
+384	oil companies	INDUSTRY_EMISSIONS	victim	right_bias	False	False	True	False	True
+384	Matt Pawa	SCIENCE_EXPERTS_SCI.REPORTS	villain	right_bias	False	False	True	False	True
+384	Vic Sher	SCIENCE_EXPERTS_SCI.REPORTS	villain	right_bias	False	False	True	False	True
+384	Vic Sher	SCIENCE_EXPERTS_SCI.REPORTS	villain	right_bias	False	False	True	False	True
+386	global warming	CLIMATECHANGE	villain	right_bias	False	False	False	False	False
+386	the Central American migrant	GENERALPUBLIC	victim	right_bias	False	False	False	False	False
+386	Former Vice President Al Gore	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	False	False	False
+387	Earth's Biodiversity	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	False	False	False	False	False
+387	species	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	False	False	False	False	False
+387	Man-made global change	CLIMATECHANGE	villain	right_bias	False	False	False	False	False
+387	humans	GENERALPUBLIC	villain	right_bias	False	False	False	False	False
+388	envrionmentalism	ENV.ORGS_ACTIVISTS	villain	right_bias	False	True	True	True	True
+388	a middle class that sees itself squeezed	GENERALPUBLIC	victim	right_bias	False	True	True	True	True
+388	the middle class	GENERALPUBLIC	victim	right_bias	False	True	True	True	True
+388	fuel tax	LEGISLATION_POLICIES_RESPONSES	villain	right_bias	False	True	True	True	True
+391	the U.S. economy	INDUSTRY_EMISSIONS	victim	right_bias	False	False	True	False	True
+391	a major government climate report	LEGISLATION_POLICIES_RESPONSES	villain	right_bias	False	False	True	False	True
+391	Democrat funded research	SCIENCE_EXPERTS_SCI.REPORTS	villain	right_bias	False	False	True	False	True
+396	Forest management	ANIMALS_NATURE_ENVIRONMENT	hero	left_bias	False	False	True	False	False
+396	the extreme fires raging across the West	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	False	False	True	False	False
+396	human-induced climate change	CLIMATECHANGE	villain	left_bias	False	False	True	False	False
+396	California	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	False	True	False	False
+396	Interior Secretary Ryan Zinke	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+399	animals	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	False	False	True	False	False
+399	environments	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	False	False	True	False	False
+399	humans	GENERALPUBLIC	victim	left_bias	False	False	True	False	False
+399	the Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+399	the US	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	False	True	False	False
+399	the US economy, environment, and human health and well-being	INDUSTRY_EMISSIONS	victim	left_bias	False	False	True	False	False
+400	California	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	True	False	False	False	True
+400	Sanders	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	False	False	True
+400	fossil fuel industry	INDUSTRY_EMISSIONS	villain	left_bias	True	False	False	False	True
+403	Appalachian mining communities	GENERALPUBLIC	victim	left_bias	True	True	True	False	False
+403	Nick Mullins, a ninth-generation Appalachian from Virginia	GENERALPUBLIC	victim	left_bias	True	True	True	False	False
+403	Obama	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	True	True	False	False
+403	President Donald Trump's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	True	True	False	False
+403	Emissions standards	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	True	True	False	False
+404	environment	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	True	False	True	False	True
+404	California	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	True
+404	the EPA	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	True
+404	its	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	True
+404	economy	INDUSTRY_EMISSIONS	victim	left_bias	True	False	True	False	True
+404	Clean Power Plan	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	True	False	True
+404	The federal rule	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	True	False	True
+404	The federal rule	LEGISLATION_POLICIES_RESPONSES	victim	left_bias	True	False	True	False	True
+405	public health	GENERALPUBLIC	victim	left_bias	True	False	False	False	False
+405	American society	GENERALPUBLIC	victim	left_bias	True	False	False	False	False
+405	the poor	GENERALPUBLIC	victim	left_bias	True	False	False	False	False
+405	the United States	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	False	False	False
+405	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	False	False	False
+405	US Economy	INDUSTRY_EMISSIONS	victim	left_bias	True	False	False	False	False
+406	nearly all U.S. waters	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	False	False	True	False	True
+406	US coastal waters	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	False	False	True	False	True
+406	The Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	True
+406	Offshore drilling safety regulations	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	False	False	True	False	True
+408	nature	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	True	False	False	False	False
+408	nature and mankind	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	True	False	False	False	False
+408	mankind	GENERALPUBLIC	victim	left_bias	True	False	False	False	False
+408	the world	GENERALPUBLIC	hero	left_bias	True	False	False	False	False
+408	emissions	INDUSTRY_EMISSIONS	villain	left_bias	True	False	False	False	False
+408	emissions of carbon dioxide CO2	INDUSTRY_EMISSIONS	villain	left_bias	True	False	False	False	False
+408	Paris Agreement	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	False	False	False
+410	Hurricane Michael	ANIMALS_NATURE_ENVIRONMENT	villain	left_bias	False	False	False	False	True
+410	the Florida Panhandle	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	False	False	False	False	True
+410	the military	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	False	False	True
+410	Tyndall Air Force Base near Panama City, Florida,	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	False	False	False	True
+412	environment	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	True	True	True	True	False
+412	next generations	GENERALPUBLIC	victim	left_bias	True	True	True	True	False
+412	Janet Garrett 10	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	True	True	True	False
+412	Jim Jordan	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	True	True	True	False
+412	Jordan's Ohio 4th Congressional District	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	True	True	True	True	False
+414	nearby West Jefferson 11	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	False	True	False	False	True
+414	nearby West Jefferson 11	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	True	False	False	True
+414	New York City	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	True	False	False	True
+414	Southern States	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	True	False	False	True
+415	poor people and communities of color	GENERALPUBLIC	victim	left_bias	False	False	True	False	False
+415	the EPA	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+415	Clean air rules	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	False	False	True	False	False
+417	Children of the US	GENERALPUBLIC	victim	left_bias	False	False	True	False	False
+417	The court	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	False	False	True	False	False
+417	the US government	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+417	the lawsuit	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	False	False	True	False	False
+417	the lawsuit	LEGISLATION_POLICIES_RESPONSES	victim	left_bias	False	False	True	False	False
+418	the devastating Camp fire in Northern California	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	False	False	False	False	False
+418	The environment	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	False	False	False	False	False
+418	Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	False	False	False
+418	President Trump Says He's Too Intelligent To Believe In Climate Change President Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	False	False	False
+423	the world	GENERALPUBLIC	victim	left_bias	True	False	True	False	True
+423	California	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	True
+423	anti-environmentalist conservatives	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	True
+423	AOC	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	True
+423	greenhouse gas emissions	INDUSTRY_EMISSIONS	villain	left_bias	True	False	True	False	True
+423	The U.N.'s Intergovernmental Panel on Climate Change	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	True	False	True
+424	Americans	GENERALPUBLIC	victim	left_bias	False	False	True	False	False
+424	California	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	False	True	False	False
+424	the Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+425	Small islands	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	True	False	True	False	True
+425	small islands	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	True	False	True	False	True
+425	major coastal metropolises	GENERALPUBLIC	victim	left_bias	True	False	True	False	True
+425	the U.S.	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	True
+425	Republicans	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	True
+425	U.S climate response	LEGISLATION_POLICIES_RESPONSES	victim	left_bias	True	False	True	False	True
+425	the Intergovernmental Panel on Climate Change	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	True	False	True
+426	Water	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	True	False	True	False	True
+426	health	GENERALPUBLIC	victim	left_bias	True	False	True	False	True
+426	people living near coal ash sites	GENERALPUBLIC	victim	left_bias	True	False	True	False	True
+426	Pruitt	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	True
+426	the EPA	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	True
+426	Scott Pruitt	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	True
+426	the agency	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	True
+426	Envrionmental laws	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	True	False	True
+428	Communities near power plants	GENERALPUBLIC	victim	left_bias	True	True	True	True	False
+428	people from across the US	GENERALPUBLIC	victim	left_bias	True	True	True	True	False
+428	Pruitt	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	True	True	True	False
+428	Pruitt	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	True	True	True	False
+428	Scott Pruitt	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	True	True	True	False
+428	coal-plant owners	INDUSTRY_EMISSIONS	villain	left_bias	True	True	True	True	False
+428	very modest coal ash safeguards	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	True	True	True	False
+429	low-income communities	GENERALPUBLIC	victim	left_bias	True	False	True	False	True
+429	neighborhoods of color	GENERALPUBLIC	victim	left_bias	True	False	True	False	True
+429	New Yorkers	GENERALPUBLIC	victim	left_bias	True	False	True	False	True
+429	Andrew Cuomo	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	True
+429	Cuomo's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	True
+429	Englebright	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	True
+430	California	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	True	False	True	False	False
+430	Congress	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	False
+430	Ocasio-Cortez	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	False
+430	Pelosi's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	False
+430	Pelosi's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	False
+430	Fossil Fuel Billionaires	INDUSTRY_EMISSIONS	villain	left_bias	True	False	True	False	False
+431	Americans	GENERALPUBLIC	victim	left_bias	True	True	True	False	False
+431	Florida	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	True	True	True	False	False
+431	Sen. Marco Rubio R-FL	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	True	True	False	False
+431	report	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	True	True	False	False
+431	Reducing carbon emissions	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	True	True	False	False
+431	reductions in carbon emissions	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	True	True	False	False
+435	future generations	GENERALPUBLIC	victim	left_bias	False	False	False	False	True
+435	Interior Secretary Ryan Zinke	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	False	False	True
+437	California's wildfires	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	True	False	True	False	False
+437	Climate change	CLIMATECHANGE	villain	left_bias	True	False	True	False	False
+437	California	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	True	False	True	False	False
+437	Donald Trump's Interior head Ryan Zinke	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	False
+437	the US Forest Service	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	False
+438	environement	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	False	True	True	False	False
+438	Interior Secretary Ryan Zinke	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	True	True	False	False
+441	[our] grandkids	GENERALPUBLIC	victim	left_bias	False	False	True	False	False
+441	grandkids	GENERALPUBLIC	victim	left_bias	False	False	True	False	False
+441	Young people (grandkids)	GENERALPUBLIC	victim	left_bias	False	False	True	False	False
+441	Carribbean	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	False	True	False	False
+441	military installations	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	False	True	False	False
+443	Tropical regions	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	False	False	False	False	False
+443	asylum seekers	GENERALPUBLIC	victim	left_bias	False	False	False	False	False
+443	migrants	GENERALPUBLIC	victim	left_bias	False	False	False	False	False
+443	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	False	False	False
+443	the White House	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	False	False	False	False	False
+444	The United States	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	False	False	False	True
+444	FEMA	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	False	False	False	False	True
+444	the Trump administration's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	False	False	True
+444	US climate response	LEGISLATION_POLICIES_RESPONSES	victim	left_bias	False	False	False	False	True
+448	the President Donald Trump's administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	False
+448	The U.S. Supreme Court	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	False
+449	climate change	CLIMATECHANGE	victim	left_bias	True	False	True	False	False
+449	Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	False
+449	the White House	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	False
+449	a Green New Deal	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	True	False	False
+449	Paris Accord	LEGISLATION_POLICIES_RESPONSES	victim	left_bias	True	False	True	False	False
+450	The Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	False	False	False
+450	the US	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	False	False	False	False
+450	We	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	False	False	False	False	False
+452	Rhode Islanders	GENERALPUBLIC	victim	left_bias	True	False	False	False	False
+452	Rhode Island	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	True	False	False	False	False
+452	companies	INDUSTRY_EMISSIONS	villain	left_bias	True	False	False	False	False
+452	oil companies	INDUSTRY_EMISSIONS	villain	left_bias	True	False	False	False	False
+452	Rhode Island lawsuit	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	False	False	False
+453	the Environmental Protection Agency	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+453	the EPA	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+453	Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+453	Obama-era environmental regulations	LEGISLATION_POLICIES_RESPONSES	victim	left_bias	False	False	True	False	False
+456	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	False
+456	greenhouse gas emissions	INDUSTRY_EMISSIONS	villain	left_bias	True	False	True	False	False
+456	Green Jobs Plan	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	True	False	False
+456	more 'green' jobs	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	True	False	False
+459	public health	GENERALPUBLIC	victim	left_bias	False	False	True	False	True
+459	quality of life	GENERALPUBLIC	victim	left_bias	False	False	True	False	True
+459	US quality of life	GENERALPUBLIC	victim	left_bias	False	False	True	False	True
+459	the new US ambassador to Canada, Kelly Craft	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	True
+459	emissions	INDUSTRY_EMISSIONS	villain	left_bias	False	False	True	False	True
+466	Democrat Governors	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	False	False	False
+466	Democrat Stephen Sisolak	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	False	False	False
+466	divided Congress	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	False	False	False
+466	governors	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	False	False	False
+466	president	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	False	False	False
+466	the House Climate Solutions Caucus	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	True	False	False	False	False
+467	The Environmental Protection Agency	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	True
+467	coal mining jobs	INDUSTRY_EMISSIONS	victim	left_bias	False	False	True	False	True
+467	Envrionmental regulations	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	False	False	True	False	True
+468	President Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+468	the Environmental Protection Agency	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	False	True	False	False
+468	a significantly less notorious successor	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+468	environmental regulations	LEGISLATION_POLICIES_RESPONSES	victim	left_bias	False	False	True	False	False
+468	Environmental regulations	LEGISLATION_POLICIES_RESPONSES	victim	left_bias	False	False	True	False	False
+469	endangered species	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	False	False	True	False	False
+469	California wildfires	ANIMALS_NATURE_ENVIRONMENT	villain	left_bias	False	False	True	False	False
+469	California	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	False	True	False	False
+469	Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+470	people	GENERALPUBLIC	victim	left_bias	False	True	True	False	False
+470	Obama	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	False	True	True	False	False
+470	President Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	True	True	False	False
+470	West Virginia	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	True	True	False	False
+471	Powell	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	False	True	False	False
+471	Republican Rep. Carlos Curbelo	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+471	a two-term incumbent	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+471	oil and gas industry	INDUSTRY_EMISSIONS	villain	left_bias	False	False	True	False	False
+472	climate change	CLIMATECHANGE	villain	left_bias	True	False	False	False	True
+472	Coastal cities	GENERALPUBLIC	victim	left_bias	True	False	False	False	True
+472	the country	GENERALPUBLIC	hero	left_bias	True	False	False	False	True
+472	the country	GENERALPUBLIC	victim	left_bias	True	False	False	False	True
+472	Farmers	INDUSTRY_EMISSIONS	victim	left_bias	True	False	False	False	True
+472	Human activities	INDUSTRY_EMISSIONS	villain	left_bias	True	False	False	False	True
+473	AOC	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+473	Sanders	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	False	False	True	False	False
+474	environement	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	False	False	True	False	False
+474	Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+474	Judge Brett Kavanaugh	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+474	Envrionmental cases in the Supreme Court	LEGISLATION_POLICIES_RESPONSES	victim	left_center_bias	False	False	True	False	False
+476	Forest management	ANIMALS_NATURE_ENVIRONMENT	hero	left_center_bias	False	False	True	False	False
+476	the forest	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	False	False	True	False	False
+476	Climate change	CLIMATECHANGE	villain	left_center_bias	False	False	True	False	False
+476	Californians	GENERALPUBLIC	victim	left_center_bias	False	False	True	False	False
+476	Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+478	Atlantic Coast	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	True	False	True	False	True
+478	Environmental groups	ENV.ORGS_ACTIVISTS	hero	left_center_bias	True	False	True	False	True
+478	Voters	GENERALPUBLIC	victim	left_center_bias	True	False	True	False	True
+478	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	False	True
+478	state legislators	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	True	False	True
+479	a wildfire	ANIMALS_NATURE_ENVIRONMENT	hero	left_center_bias	True	False	False	False	True
+479	the ongoing Camp Fire in Northern California	ANIMALS_NATURE_ENVIRONMENT	villain	left_center_bias	True	False	False	False	True
+479	humans	GENERALPUBLIC	villain	left_center_bias	True	False	False	False	True
+479	California	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	True	False	False	False	True
+485	weather	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	False	False	True	False	False
+485	public health	GENERALPUBLIC	victim	left_center_bias	False	False	True	False	False
+485	Democrats	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	False	False	True	False	False
+485	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+485	Republicans	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+485	Carbon energy	INDUSTRY_EMISSIONS	villain	left_center_bias	False	False	True	False	False
+485	Clean energy	GREEN_TECHNOLOGY_INNOVATION	hero	left_center_bias	False	False	True	False	False
+486	global warming	CLIMATECHANGE	victim	left_center_bias	False	True	True	False	False
+486	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	True	True	False	False
+486	Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	True	True	False	False
+486	Winberg	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	False	True	True	False	False
+486	fossil fuel industry	INDUSTRY_EMISSIONS	villain	left_center_bias	False	True	True	False	False
+486	Paris Agreement	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	False	True	True	False	False
+487	American health	GENERALPUBLIC	victim	left_center_bias	True	False	True	False	True
+487	the Trump administration's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	False	True
+487	the US	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	True	False	True	False	True
+487	the US Government	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	True	False	True
+487	fossil fuels	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	True	False	True
+487	American economy	INDUSTRY_EMISSIONS	victim	left_center_bias	True	False	True	False	True
+487	society to reduce greenhouse gas emissions	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	True	False	True
+488	public health mission	GENERALPUBLIC	victim	left_center_bias	False	False	True	False	False
+488	Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+488	His replacement	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+488	Climate regulation	LEGISLATION_POLICIES_RESPONSES	victim	left_center_bias	False	False	True	False	False
+488	environmental and climate regulations	LEGISLATION_POLICIES_RESPONSES	victim	left_center_bias	False	False	True	False	False
+491	Lawyers for Our Children's Trust	ENV.ORGS_ACTIVISTS	hero	left_center_bias	True	False	False	False	False
+491	Lawyers for Our Children's Trust	ENV.ORGS_ACTIVISTS	villain	left_center_bias	True	False	False	False	False
+491	the Justice Department	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	False	False	False
+491	the Justice Department	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	False	False	False
+495	Americans	GENERALPUBLIC	victim	left_center_bias	True	False	True	False	True
+495	State and local governments	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	True	False	True
+495	global greenhouse gas emissions	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	True	False	True
+495	greenhouse gas emissions	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	True	False	True
+495	U.S Economy	INDUSTRY_EMISSIONS	victim	left_center_bias	True	False	True	False	True
+495	Ekwurzel	SCIENCE_EXPERTS_SCI.REPORTS	hero	left_center_bias	True	False	True	False	True
+498	Villages near power plants	GENERALPUBLIC	victim	left_center_bias	False	False	False	False	True
+498	China	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	False	False	True
+498	pollution near the village	INDUSTRY_EMISSIONS	victim	left_center_bias	False	False	False	False	True
+500	average global temperatures	ANIMALS_NATURE_ENVIRONMENT	villain	left_center_bias	True	True	False	False	False
+500	the world	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	True	True	False	False	False
+500	Climate change	CLIMATECHANGE	villain	left_center_bias	True	True	False	False	False
+500	5 crops	INDUSTRY_EMISSIONS	victim	left_center_bias	True	True	False	False	False
+500	global food production	INDUSTRY_EMISSIONS	victim	left_center_bias	True	True	False	False	False
+500	Emissions reduction	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	True	False	False	False
+500	U.N. Intergovernmental Panel on Climate Change	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	True	False	False	False
+501	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	True
+501	CIA Director Mike Pompeo	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	True
+501	the State Department	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	False	False	True	False	True
+501	Paris Agreement	LEGISLATION_POLICIES_RESPONSES	victim	left_center_bias	False	False	True	False	True
+504	The Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	False	True
+504	Obama-era regulations	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	True	False	True
+504	Obama-era climate regulations	LEGISLATION_POLICIES_RESPONSES	victim	left_center_bias	True	False	True	False	True
+504	plans	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	True	False	True
+506	Antarctica	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	False	False	False	False	False
+506	that it's melting faster than they thought .	ANIMALS_NATURE_ENVIRONMENT	villain	left_center_bias	False	False	False	False	False
+508	mainstream climate-change groups	ENV.ORGS_ACTIVISTS	victim	left_center_bias	False	False	True	False	False
+508	Moms Clean Air Force	ENV.ORGS_ACTIVISTS	hero	left_center_bias	False	False	True	False	False
+508	Environmental Protection Agency	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+508	environmental regulation and enforcement	LEGISLATION_POLICIES_RESPONSES	victim	left_center_bias	False	False	True	False	False
+508	the American Lung Association	SCIENCE_EXPERTS_SCI.REPORTS	hero	left_center_bias	False	False	True	False	False
+510	demonstrators	ENV.ORGS_ACTIVISTS	hero	left_center_bias	True	False	True	False	True
+510	Coastal cities	GENERALPUBLIC	victim	left_center_bias	True	False	True	False	True
+510	Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	False	True
+510	Calif.	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	False	True
+510	Calif.	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	True	False	True	False	True
+510	State Officials	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	True	False	True
+510	the California Coastal Commission	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	True	False	True
+510	offshore oil drilling	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	True	False	True
+512	60 % of the nation's bodies of water	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	True	True	True	True	False
+512	sources of drinking water	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	True	True	True	True	False
+512	Democrats	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	True	True	True	False
+512	Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	True	True	True	False
+512	Alexandria Ocasio-Cortez	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	True	True	True	False
+512	America	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	True	True	True	True	False
+512	Donald Trump's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	True	True	True	False
+512	The current administrator of the EPA, Andrew Wheeler	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	True	True	True	False
+515	Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+515	President Trump's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+515	Clean Air Act	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	False	False	True	False	False
+515	clean air standards	LEGISLATION_POLICIES_RESPONSES	victim	left_center_bias	False	False	True	False	False
+516	Endangered Species Act ESA	ANIMALS_NATURE_ENVIRONMENT	hero	left_center_bias	False	False	True	False	False
+516	species	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	False	False	True	False	False
+516	threatened plant and animal species	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	False	False	True	False	False
+516	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	False	False	True	False	False
+516	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+520	Californians	GENERALPUBLIC	victim	left_center_bias	True	False	True	False	False
+520	children	GENERALPUBLIC	victim	left_center_bias	True	False	True	False	False
+520	California	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	True	False	True	False	False
+520	the Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	False	False
+520	California lawsuit	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	True	False	False
+522	African biodiversity	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	False	False	False	False	False
+522	plants and animal species	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	False	False	False	False	False
+522	mankind	GENERALPUBLIC	villain	left_center_bias	False	False	False	False	False
+522	quality of life	GENERALPUBLIC	victim	left_center_bias	False	False	False	False	False
+522	pollution, climate change, and deforestation	INDUSTRY_EMISSIONS	villain	left_center_bias	False	False	False	False	False
+522	a UN-backed study	SCIENCE_EXPERTS_SCI.REPORTS	hero	left_center_bias	False	False	False	False	False
+524	water	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	False	False	True	False	False
+524	the EPA	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+524	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+524	Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+524	the Clean Water Act	LEGISLATION_POLICIES_RESPONSES	victim	left_center_bias	False	False	True	False	False
+525	The Planet?	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	True	False	False	False	False
+525	high-income countries	GENERALPUBLIC	hero	left_center_bias	True	False	False	False	False
+525	Captialist consumption	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	False	False	False
+525	Sustainable consumption	GREEN_TECHNOLOGY_INNOVATION	hero	left_center_bias	True	False	False	False	False
+527	the world	GENERALPUBLIC	hero	left_center_bias	True	False	False	False	False
+527	the world	GENERALPUBLIC	villain	left_center_bias	True	False	False	False	False
+527	the world	GENERALPUBLIC	victim	left_center_bias	True	False	False	False	False
+527	food production and consumption	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	False	False	False
+532	forest management	ANIMALS_NATURE_ENVIRONMENT	hero	left_center_bias	False	False	True	False	False
+532	Climate change	CLIMATECHANGE	villain	left_center_bias	False	False	True	False	False
+532	climate change	CLIMATECHANGE	villain	left_center_bias	False	False	True	False	False
+532	environmental groups	ENV.ORGS_ACTIVISTS	villain	left_center_bias	False	False	True	False	False
+532	environmental terrorist groups	ENV.ORGS_ACTIVISTS	villain	left_center_bias	False	False	True	False	False
+532	California	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	False	False	True	False	False
+533	India's southern state of Tamil Nadu	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	False	True
+533	coal power plants	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	True	False	True
+533	Tamil Nadu farmers	INDUSTRY_EMISSIONS	victim	left_center_bias	True	False	True	False	True
+533	wind power	GREEN_TECHNOLOGY_INNOVATION	hero	left_center_bias	True	False	True	False	True
+533	wind power-7.85 gigawatts GW	GREEN_TECHNOLOGY_INNOVATION	hero	left_center_bias	True	False	True	False	True
+537	displacement of millions	GENERALPUBLIC	victim	left_center_bias	True	False	False	False	False
+537	greenhouse gases	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	False	False	False
+537	New green technologies	GREEN_TECHNOLOGY_INNOVATION	hero	left_center_bias	True	False	False	False	False
+545	climate change	CLIMATECHANGE	villain	left_center_bias	False	False	True	False	False
+545	California	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+545	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+545	California's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	False	False	True	False	False
+545	California's environmental policies	LEGISLATION_POLICIES_RESPONSES	villain	left_center_bias	False	False	True	False	False
+545	Climate policy	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	False	False	True	False	False
+547	the endangered dusky gopher frog	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	False	False	False	False	False
+547	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	False	False	False
+547	Court	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	False	False	False
+547	Supreme Court Justice Anthony Kennedy	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	False	False	False	False	False
+551	The environment	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	True	False	True	False	False
+551	Americans	GENERALPUBLIC	victim	left_center_bias	True	False	True	False	False
+551	the EPA	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	False	False
+551	Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	False	False
+551	its	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	False	False
+551	Eric Schneiderman, New York's attorney general	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	True	False	False
+556	Residents of Berkieley	GENERALPUBLIC	victim	questionable_source	False	False	False	True	False
+556	the Berkeley City Council	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	False	False	True	False
+557	A tiny endangered butterfly	ANIMALS_NATURE_ENVIRONMENT	victim	questionable_source	True	False	True	False	False
+557	President Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	True	False	True	False	False
+557	the Center for Biological Diversity	SCIENCE_EXPERTS_SCI.REPORTS	hero	questionable_source	True	False	True	False	False
+558	Florida	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	questionable_source	False	True	True	False	False
+558	Florida Governor Rick Scott	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	True	True	False	False
+558	Scott	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	True	True	False	False
+558	Scott	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	questionable_source	False	True	True	False	False
+559	Marine life	ANIMALS_NATURE_ENVIRONMENT	victim	questionable_source	False	False	True	False	True
+559	our	GENERALPUBLIC	victim	questionable_source	False	False	True	False	True
+559	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	False	True	False	True
+565	Rising sea levels	ANIMALS_NATURE_ENVIRONMENT	villain	questionable_source	False	False	True	False	False
+565	alarmists	ENV.ORGS_ACTIVISTS	villain	questionable_source	False	False	True	False	False
+565	Tuvalu	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	False	True	False	False
+565	University of Auckland study	SCIENCE_EXPERTS_SCI.REPORTS	hero	questionable_source	False	False	True	False	False
+567	Californian voters	GENERALPUBLIC	hero	questionable_source	False	False	True	False	False
+569	coral reef	ANIMALS_NATURE_ENVIRONMENT	victim	questionable_source	False	False	True	False	False
+569	environment	ANIMALS_NATURE_ENVIRONMENT	victim	questionable_source	False	False	True	False	False
+569	President Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	False	True	False	False
+569	UN report on climate change	LEGISLATION_POLICIES_RESPONSES	hero	questionable_source	False	False	True	False	False
+570	California	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	False	True	False	False
+570	California	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	questionable_source	False	False	True	False	False
+570	US President Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	False	True	False	False
+570	Californias water management	LEGISLATION_POLICIES_RESPONSES	hero	questionable_source	False	False	True	False	False
+576	the world	GENERALPUBLIC	hero	questionable_source	True	False	False	False	False
+576	the world	GENERALPUBLIC	victim	questionable_source	True	False	False	False	False
+576	Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	True	False	False	False	False
+576	the Paris Agreement	LEGISLATION_POLICIES_RESPONSES	hero	questionable_source	True	False	False	False	False
+582	climate alarmists	ENV.ORGS_ACTIVISTS	villain	right_bias	False	False	True	False	False
+582	advocacy groups	ENV.ORGS_ACTIVISTS	villain	right_bias	False	False	True	False	False
+582	Journalists	MEDIA_JOURNALISTS	villain	right_bias	False	False	True	False	False
+582	Climate scientists	SCIENCE_EXPERTS_SCI.REPORTS	villain	right_bias	False	False	True	False	False
+582	Sound science	SCIENCE_EXPERTS_SCI.REPORTS	hero	right_bias	False	False	True	False	False
+583	an island disappearing in the Chesapeake Bay	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	True	False	True	False	False
+583	erosion	ANIMALS_NATURE_ENVIRONMENT	villain	right_bias	True	False	True	False	False
+583	Seawalls	ANIMALS_NATURE_ENVIRONMENT	hero	right_bias	True	False	True	False	False
+583	Al Gore's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	True	False	True	False	False
+583	James "Ooker" Eskridge	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	True	False	False
+586	mass extinction	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	False	False	False	False	False
+586	humanity	GENERALPUBLIC	victim	right_bias	False	False	False	False	False
+586	carbon emissions	INDUSTRY_EMISSIONS	villain	right_bias	False	False	False	False	False
+586	decreasing carbon emissions	LEGISLATION_POLICIES_RESPONSES	hero	right_bias	False	False	False	False	False
+589	The ocean	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	True	False	True	False	False
+589	environmental groups/environmentalists	ENV.ORGS_ACTIVISTS	victim	right_bias	True	False	True	False	False
+589	Conservation Voters	ENV.ORGS_ACTIVISTS	hero	right_bias	True	False	True	False	False
+589	Conservation Voters	ENV.ORGS_ACTIVISTS	hero	right_bias	True	False	True	False	False
+589	Obama	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	True	False	True	False	False
+589	the Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	True	False	True	False	False
+589	The Natural Resources Defense Council NRDC the Center for Biological Diversity	SCIENCE_EXPERTS_SCI.REPORTS	hero	right_bias	True	False	True	False	False
+593	the Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	True	False	True
+593	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	True	False	True
+593	Environmental Protection Agency	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	True	False	True
+593	power plants	INDUSTRY_EMISSIONS	victim	right_bias	True	False	True	False	True
+593	utilities	INDUSTRY_EMISSIONS	villain	right_bias	True	False	True	False	True
+593	Obama-era regulations	LEGISLATION_POLICIES_RESPONSES	villain	right_bias	True	False	True	False	True
+594	China	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	False	False	True
+594	coal	INDUSTRY_EMISSIONS	hero	right_bias	False	False	False	False	True
+594	Coal workers	INDUSTRY_EMISSIONS	victim	right_bias	False	False	False	False	True
+595	California	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	False	False	False
+595	Nichols	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	False	False	False
+595	Auto industry	INDUSTRY_EMISSIONS	victim	right_bias	True	False	False	False	False
+595	car industry	INDUSTRY_EMISSIONS	victim	right_bias	True	False	False	False	False
+595	Polluting autos	INDUSTRY_EMISSIONS	villain	right_bias	True	False	False	False	False
+596	rising temperatures	ANIMALS_NATURE_ENVIRONMENT	villain	right_bias	False	False	True	False	False
+596	species in some parts of the world	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	False	False	True	False	False
+596	a press release touting the study's new findings	MEDIA_JOURNALISTS	hero	right_bias	False	False	True	False	False
+597	elites	ENV.ORGS_ACTIVISTS	villain	right_bias	False	True	True	True	False
+597	America	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	False	True	True	True	False
+597	President Donald J. Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	False	True	True	True	False
+597	our economy	INDUSTRY_EMISSIONS	victim	right_bias	False	True	True	True	False
+597	liberal agenda	LEGISLATION_POLICIES_RESPONSES	villain	right_bias	False	True	True	True	False
+601	climate alarmists	ENV.ORGS_ACTIVISTS	villain	right_bias	False	False	True	False	False
+601	Comedian Bill Nye	ENV.ORGS_ACTIVISTS	villain	right_bias	False	False	True	False	False
+602	Exxon	INDUSTRY_EMISSIONS	victim	right_bias	False	False	True	False	True
+602	Los Angeles Times	MEDIA_JOURNALISTS	villain	right_bias	False	False	True	False	True
+602	Spencer	SCIENCE_EXPERTS_SCI.REPORTS	hero	right_bias	False	False	True	False	True
+605	taxpayers	GENERALPUBLIC	victim	right_bias	True	False	False	False	True
+605	the Left	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	True	False	False	False	True
+605	free markets, competition	INDUSTRY_EMISSIONS	hero	right_bias	True	False	False	False	True
+605	energy subsidies and regulations	LEGISLATION_POLICIES_RESPONSES	villain	right_bias	True	False	False	False	True
+605	energy subsidies and regulations	LEGISLATION_POLICIES_RESPONSES	villain	right_bias	True	False	False	False	True
+607	A coalition of states	GENERALPUBLIC	hero	right_bias	False	False	True	False	False
+607	Schneiderman	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	True	False	False
+607	the Trump administration's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	True	False	False
+611	environment	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	False	True	True	True	False
+611	workers and their families	GENERALPUBLIC	victim	right_bias	False	True	True	True	False
+611	liberals	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	True	True	True	False
+611	Liberals	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	True	True	True	False
+611	Fox News host Tucker Carlson	MEDIA_JOURNALISTS	hero	right_bias	False	True	True	True	False
+614	environment	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	False	True	False	True	False
+614	Liberal elites'	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	True	False	True	False
+616	people	GENERALPUBLIC	villain	right_bias	False	False	True	False	False
+618	Rising sea levels	ANIMALS_NATURE_ENVIRONMENT	villain	right_bias	True	False	True	False	False
+618	activists	ENV.ORGS_ACTIVISTS	hero	right_bias	True	False	True	False	False
+618	its 450 residents	GENERALPUBLIC	victim	right_bias	True	False	True	False	False
+618	Tangier residents	GENERALPUBLIC	victim	right_bias	True	False	True	False	False
+618	a powerful new ally : U.S. President Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	True	False	True	False	False
+618	James Eskridge, mayor of the mainly Republican island community	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	True	False	False
+619	people impacted by natural disasters	GENERALPUBLIC	victim	right_bias	False	False	False	True	False
+619	People impacted by natural disasters	GENERALPUBLIC	victim	right_bias	False	False	False	True	False
+619	a new study	SCIENCE_EXPERTS_SCI.REPORTS	hero	right_bias	False	False	False	True	False
+624	A coalition of left-leaning states and environmental groups	ENV.ORGS_ACTIVISTS	hero	right_bias	True	False	True	False	False
+624	Environmental Protection Agency Administrator Scott Pruitt	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	True	False	True	False	False
+624	the Trump administration's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	True	False	True	False	False
+624	Obama's Clean Power Plan	LEGISLATION_POLICIES_RESPONSES	victim	right_bias	True	False	True	False	False
+624	clean power infrastructure	GREEN_TECHNOLOGY_INNOVATION	hero	right_bias	True	False	True	False	False
+628	Environmental Left	ENV.ORGS_ACTIVISTS	villain	right_bias	False	False	True	False	False
+628	the protests	ENV.ORGS_ACTIVISTS	villain	right_bias	False	False	True	False	False
+628	Local ranchers	GENERALPUBLIC	victim	right_bias	False	False	True	False	False
+628	Oil spill catchment facilities	GREEN_TECHNOLOGY_INNOVATION	hero	right_bias	False	False	True	False	False
+630	Trump administration's policies on the environment	LEGISLATION_POLICIES_RESPONSES	villain	right_bias	False	False	True	False	False
+630	Trump administration's policies on the environment	LEGISLATION_POLICIES_RESPONSES	victim	right_bias	False	False	True	False	False
+630	media	MEDIA_JOURNALISTS	villain	right_bias	False	False	True	False	False
+630	NBC Nightly News	MEDIA_JOURNALISTS	villain	right_bias	False	False	True	False	False
+632	taxpayers	GENERALPUBLIC	victim	right_bias	True	False	True	False	True
+632	The White House	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	True	False	True
+632	The White House	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	True	False	True	False	True
+632	proposed carbon tax	LEGISLATION_POLICIES_RESPONSES	villain	right_bias	True	False	True	False	True
+632	rollback of federal environmental regulations	LEGISLATION_POLICIES_RESPONSES	hero	right_bias	True	False	True	False	True
+632	the Climate Leadership Council CLC	LEGISLATION_POLICIES_RESPONSES	villain	right_bias	True	False	True	False	True
+632	tax and value	LEGISLATION_POLICIES_RESPONSES	villain	right_bias	True	False	True	False	True
+634	Antarctica	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	False	False	False	True	False
+634	global warming	CLIMATECHANGE	villain	right_bias	False	False	False	True	False
+634	The New York Times	MEDIA_JOURNALISTS	villain	right_bias	False	False	False	True	False
+638	wildfires	ANIMALS_NATURE_ENVIRONMENT	villain	right_bias	True	True	False	False	False
+638	homeowners	GENERALPUBLIC	victim	right_bias	True	True	False	False	False
+638	Northern California homeowners	GENERALPUBLIC	victim	right_bias	True	True	False	False	False
+638	Californian authorities	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	True	False	False	False
+638	Authorities	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	True	False	False	False
+639	plants and food	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	True	True	True	False	True
+639	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	True	True	False	True
+639	America	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	True	True	True	False	True
+639	former Secretary of State John Kerry	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	True	True	True	False	True
+640	our planet	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	True	False	True	False	False
+640	President Trump's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	True	False	True	False	False
+640	three prominent European heads of state	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	True	False	False
+640	Global climate response	LEGISLATION_POLICIES_RESPONSES	victim	right_bias	True	False	True	False	False
+640	the Paris climate accord	LEGISLATION_POLICIES_RESPONSES	hero	right_bias	True	False	True	False	False
+642	Workers	GENERALPUBLIC	victim	right_bias	True	False	True	False	False
+642	the country	GENERALPUBLIC	victim	right_bias	True	False	True	False	False
+642	Obama	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	True	False	True	False	False
+642	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	True	False	False
+642	the Clean Air Act	LEGISLATION_POLICIES_RESPONSES	villain	right_bias	True	False	True	False	False
+643	kids	GENERALPUBLIC	victim	right_bias	False	False	False	True	False
+643	the Left	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	False	False	False	True	False
+646	water supply expansion	ANIMALS_NATURE_ENVIRONMENT	hero	right_bias	True	False	True	False	False
+646	Californians	GENERALPUBLIC	victim	right_bias	True	False	True	False	False
+646	California's Jerry Brown	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	True	False	True	False	False
+650	Antarctic regions	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	False	False	False	False	False
+650	Antarctica	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	False	False	False	False	False
+650	Melting ice sheets	ANIMALS_NATURE_ENVIRONMENT	villain	right_bias	False	False	False	False	False
+650	Global warming	CLIMATECHANGE	villain	right_bias	False	False	False	False	False
+651	could also be radical environmentalists more broadly-however they are not mentioned as often	ENV.ORGS_ACTIVISTS	villain	right_bias	False	True	True	True	False
+651	Radical environmentalists	ENV.ORGS_ACTIVISTS	villain	right_bias	False	True	True	True	False
+651	Grandma	GENERALPUBLIC	victim	right_bias	False	True	True	True	False
+651	Normal people	GENERALPUBLIC	victim	right_bias	False	True	True	True	False
+651	A recent Vox piece by Dean Peterson	MEDIA_JOURNALISTS	villain	right_bias	False	True	True	True	False
+652	an estimated 573,000 birds and 888,000 bats a year	ANIMALS_NATURE_ENVIRONMENT	victim	right_bias	True	False	True	False	True
+652	Democratic Gov. Andrew Cuomo's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	True	False	True	False	True
+652	town of Yates	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	True	False	True	False	True
+652	Riggi	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	True	False	True
+655	the world	GENERALPUBLIC	victim	right_bias	True	False	True	False	False
+655	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	right_bias	True	False	True	False	False
+655	Canadian Prime Minister Justin Trudeau	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	right_bias	True	False	True	False	False
+655	our economy	INDUSTRY_EMISSIONS	victim	right_bias	True	False	True	False	False
+655	Paris climate accord	LEGISLATION_POLICIES_RESPONSES	hero	right_bias	True	False	True	False	False
+656	climate alarmists	ENV.ORGS_ACTIVISTS	victim	right_bias	False	False	False	False	False
+656	carbon dioxide	INDUSTRY_EMISSIONS	hero	right_bias	False	False	False	False	False
+656	carbon dioxide emissions	INDUSTRY_EMISSIONS	villain	right_bias	False	False	False	False	False
+657	Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	False	False	True	True	False
+657	Conservatives	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	right_bias	False	False	True	True	False
+657	the New York Times	MEDIA_JOURNALISTS	villain	right_bias	False	False	True	True	False
+661	residents	GENERALPUBLIC	victim	left_bias	True	True	False	False	False
+661	the Environmental Protection Agency	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	True	False	False	False
+661	the Environmental Protection Agency	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	True	False	False	False
+661	East Chicago	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	True	True	False	False	False
+661	hazardous waste	INDUSTRY_EMISSIONS	villain	left_bias	True	True	False	False	False
+662	environment	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	False	False	True	False	False
+662	human health	GENERALPUBLIC	victim	left_bias	False	False	True	False	False
+662	the EPA	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	False	True	False	False
+662	Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+662	the EPA's regulations	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	False	False	True	False	False
+662	Institute	SCIENCE_EXPERTS_SCI.REPORTS	villain	left_bias	False	False	True	False	False
+663	The Arctic	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	False	False	False	False	False
+664	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	False
+664	Congressional Democrats	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	False
+664	EPA head Scott Pruitt	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	False
+664	EPA head Scott Pruitt	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	False
+664	Region	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	True	False	True	False	False
+664	the Great Lakes area office	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	True	False	True	False	False
+665	glaciers	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	True	False	False	False	False
+665	the world	ANIMALS_NATURE_ENVIRONMENT	hero	left_bias	True	False	False	False	False
+665	the U.S.	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	True	False	False	False	False
+665	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	False	False	False
+665	Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	False	False	False
+665	The New York Times	MEDIA_JOURNALISTS	hero	left_bias	True	False	False	False	False
+667	California	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	True	False	False	True
+667	California	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	True	True	False	False	True
+667	Washington	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	True	False	False	True
+667	white house	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	True	False	False	True
+667	their carbon pollution	INDUSTRY_EMISSIONS	villain	left_bias	True	True	False	False	True
+667	Envrionmental laws	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	True	False	False	True
+667	market-based policies on their own	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	True	False	False	True
+668	people of color and poor people	GENERALPUBLIC	victim	left_bias	True	True	True	True	False
+668	people of color	GENERALPUBLIC	victim	left_bias	True	True	True	True	False
+668	poor people	GENERALPUBLIC	victim	left_bias	True	True	True	True	False
+668	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	True	True	True	False
+668	Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	True	True	True	False
+668	Climate policy	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	True	True	True	False
+674	an American Indian tribe	GENERALPUBLIC	hero	left_bias	True	False	True	False	True
+674	an American Indian tribe	GENERALPUBLIC	victim	left_bias	True	False	True	False	True
+674	Standing Rock Sioux community	GENERALPUBLIC	victim	left_bias	True	False	True	False	True
+674	Boasberg	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	True
+674	the Dakota Access oil pipeline	INDUSTRY_EMISSIONS	villain	left_bias	True	False	True	False	True
+674	ruled	LEGISLATION_POLICIES_RESPONSES	villain	left_bias	True	False	True	False	True
+675	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	False
+675	he	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	False
+675	I	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	False
+675	Paris Agreement	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	True	False	False
+676	Citizens impacted by environmental disasters	GENERALPUBLIC	victim	left_bias	False	True	True	False	False
+676	the Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	True	True	False	False
+676	the United States'	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	True	True	False	False
+676	The Clean Power Plan	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	False	True	True	False	False
+678	Republican politicians	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	True	True	True	True
+678	Senators	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	True	True	True	True
+678	Texan Senators	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	True	True	True	True
+678	Texan Senators	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	True	True	True	True
+678	Texas	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	True	True	True	True	True
+678	Fossil fuels	INDUSTRY_EMISSIONS	villain	left_bias	True	True	True	True	True
+678	Clean Energy Technology	GREEN_TECHNOLOGY_INNOVATION	hero	left_bias	True	True	True	True	True
+679	Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+679	the United States	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	False	True	False	False
+679	Paris Accord	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	False	False	True	False	False
+681	humans	GENERALPUBLIC	victim	left_bias	True	False	True	False	False
+681	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	False
+681	Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	False
+681	greenhouse gas emissions	INDUSTRY_EMISSIONS	villain	left_bias	True	False	True	False	False
+681	the Paris climate agreement	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	True	False	False
+685	Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	False
+685	Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	False
+685	Republicans	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	False
+685	the U.S. government	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	False
+685	the U.S. government	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	True	False	True	False	False
+685	Renewables	GREEN_TECHNOLOGY_INNOVATION	hero	left_bias	True	False	True	False	False
+686	the poverty-striken	GENERALPUBLIC	victim	left_bias	True	False	True	True	False
+686	the United States	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	True	False
+686	the Paris agreement on climate change	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	True	True	False
+687	He	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	True	False
+687	Alabama	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	False	True	True	False
+687	Roy Moore	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	True	False
+688	communities affected by climate change	GENERALPUBLIC	victim	left_bias	False	False	True	False	False
+688	communities hit by natural disasters	GENERALPUBLIC	victim	left_bias	False	False	True	False	False
+688	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+689	President Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	True
+689	the Environmental Protection Agency	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	False	False	True	False	True
+689	the Environmental Protection Agency	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	False	True	False	True
+689	the United States	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	False	True	False	True
+689	Climate policy	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	False	False	True	False	True
+690	environment	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	True	False	True	False	False
+690	health risks	GENERALPUBLIC	victim	left_bias	True	False	True	False	False
+690	human health	GENERALPUBLIC	victim	left_bias	True	False	True	False	False
+690	Obama	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	False
+690	Pruitt	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	False
+690	Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	False
+690	Clean Power Plan	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	True	False	False
+691	Earth's Life	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	True	False	False	True	False
+691	Life on earth	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	True	False	False	True	False
+691	Capitalists	INDUSTRY_EMISSIONS	villain	left_bias	True	False	False	True	False
+691	human over-population, pollution	INDUSTRY_EMISSIONS	villain	left_bias	True	False	False	True	False
+691	growth	INDUSTRY_EMISSIONS	villain	left_bias	True	False	False	True	False
+691	Earth first	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	False	True	False
+693	President Donald Trump's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	False	False	True
+693	Senate panel	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	False	False	True
+693	US Senate	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	False	False	True
+697	drought	ANIMALS_NATURE_ENVIRONMENT	villain	left_bias	False	False	False	False	True
+697	environment (trees etc)	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	False	False	False	False	True
+697	Communities	GENERALPUBLIC	victim	left_bias	False	False	False	False	True
+697	Governor Jerry Brown	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	False	False	False	False	True
+697	California's agricultural economy	INDUSTRY_EMISSIONS	victim	left_bias	False	False	False	False	True
+700	coastal communities	GENERALPUBLIC	victim	left_bias	False	False	True	False	False
+700	the Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+700	US climate response	LEGISLATION_POLICIES_RESPONSES	victim	left_bias	False	False	True	False	False
+704	Administrator Scott Pruitt	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	True	False
+704	Climate science	SCIENCE_EXPERTS_SCI.REPORTS	victim	left_bias	False	False	True	True	False
+704	the scientists that are advising us	SCIENCE_EXPERTS_SCI.REPORTS	victim	left_bias	False	False	True	True	False
+705	Coastal cities	GENERALPUBLIC	victim	left_bias	False	False	True	False	False
+705	President Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+705	President Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	False	True	False	False
+705	World Resources Institute	SCIENCE_EXPERTS_SCI.REPORTS	hero	left_bias	False	False	True	False	False
+706	climate change	CLIMATECHANGE	victim	left_bias	False	False	True	False	False
+706	Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+706	Environmental Protection Agency	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	False	True	False	False
+706	Washington CNN President Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+706	Perciasepe	SCIENCE_EXPERTS_SCI.REPORTS	hero	left_bias	False	False	True	False	False
+708	Americans	GENERALPUBLIC	victim	left_bias	False	False	True	False	False
+708	Child asthma suffers	GENERALPUBLIC	victim	left_bias	False	False	True	False	False
+708	Pruitt	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+708	Pruitt	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+708	the EPA	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+708	The Clean Power Plan	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	False	False	True	False	False
+708	Natural Resources Defense Council	SCIENCE_EXPERTS_SCI.REPORTS	hero	left_bias	False	False	True	False	False
+710	wildlife conservation	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	False	False	True	False	False
+710	these monuments	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	False	False	True	False	False
+710	Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+710	his	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+710	Fish and Wildlife Service	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	False	False	True	False	False
+711	coastal communities	GENERALPUBLIC	victim	left_bias	True	False	True	False	True
+711	the billionaire Republican megadonor	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	True
+711	carbon pricing	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	True	False	True
+711	plan	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	True	False	True
+713	environement	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	True	False	True	True	False
+713	American lives	GENERALPUBLIC	victim	left_bias	True	False	True	True	False
+713	the United States	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	True	False	True	True	False
+713	his	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	True	False
+713	Congress	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	True	False
+713	Impeachment Of Scott Pruitt	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	True	False
+713	Scott Pruitt	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	True	False
+716	People of Florida	GENERALPUBLIC	victim	left_bias	False	False	False	False	False
+716	Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	False	False	False
+716	Trump dismisses climate change question by contradicting himself on hurricanes Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	False	False	False
+716	human activity	INDUSTRY_EMISSIONS	villain	left_bias	False	False	False	False	False
+718	Fake news	MEDIA_JOURNALISTS	villain	left_bias	False	False	True	False	False
+718	Scientists who believe climate change is caused by humans	SCIENCE_EXPERTS_SCI.REPORTS	victim	left_bias	False	False	True	False	False
+719	Energy Secretary Rick Perry	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+719	greenhouse gas emissions	INDUSTRY_EMISSIONS	villain	left_bias	False	False	True	False	False
+720	Rising sea levels	ANIMALS_NATURE_ENVIRONMENT	villain	left_bias	False	False	False	False	False
+720	Coastal cities	GENERALPUBLIC	victim	left_bias	False	False	False	False	False
+720	President Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	False	False	False	False	False
+720	President Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	False	False	False
+720	Florida	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	False	False	False	False
+722	Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	True
+722	the U.S.	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	True	False	True	False	True
+722	American state governments	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	True
+722	cities	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	True
+722	state governments	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	True
+722	private sector	INDUSTRY_EMISSIONS	hero	left_bias	True	False	True	False	True
+725	Montana environment	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	False	True	True	True	False
+725	Four Christian church leaders in Montana	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	False	True	True	True	False
+725	Sen. Steve Daines	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	True	True	True	False
+725	their state's Republican senator	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	False	True	True	True	False
+725	their state's Republican senator	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	True	True	True	False
+726	BNP Paribas	INDUSTRY_EMISSIONS	hero	left_bias	True	False	False	False	True
+726	BNP Paribas	INDUSTRY_EMISSIONS	villain	left_bias	True	False	False	False	True
+726	Fracking	INDUSTRY_EMISSIONS	villain	left_bias	True	False	False	False	True
+732	Hurricane Irma	ANIMALS_NATURE_ENVIRONMENT	villain	left_bias	True	False	False	False	True
+732	Florida	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	True	False	False	False	True
+732	The U.S. Nuclear Regulatory Commission NRC	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	False	False	True
+732	the two nuclear reactors at the Turkey Point plant	INDUSTRY_EMISSIONS	victim	left_bias	True	False	False	False	True
+733	President Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	False	False	True	False	False
+733	the United States	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_bias	False	False	True	False	False
+733	environmental regulation	LEGISLATION_POLICIES_RESPONSES	victim	left_bias	False	False	True	False	False
+733	the Paris climate accord	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	False	False	True	False	False
+734	Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	True	False
+734	California state legislature	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	True	False
+734	deal	LEGISLATION_POLICIES_RESPONSES	hero	left_bias	True	False	True	True	False
+734	US Climate Policy	LEGISLATION_POLICIES_RESPONSES	victim	left_bias	True	False	True	True	False
+737	environment	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	True	False	True	False	False
+737	waterways	ANIMALS_NATURE_ENVIRONMENT	victim	left_bias	True	False	True	False	False
+737	the Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_bias	True	False	True	False	False
+737	Laporte	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_bias	True	False	True	False	False
+738	Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+738	Bernie Sanders	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	False	False	True	False	False
+738	Donald Trump's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+739	climate change	CLIMATECHANGE	villain	left_center_bias	True	False	False	False	False
+739	many	GENERALPUBLIC	victim	left_center_bias	True	False	False	False	False
+739	Homeowners in floodplains	GENERALPUBLIC	victim	left_center_bias	True	False	False	False	False
+739	the federal government	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	False	False	False
+739	burning of fossil fuels	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	False	False	False
+739	green infrastructure	GREEN_TECHNOLOGY_INNOVATION	hero	left_center_bias	True	False	False	False	False
+740	global warming	CLIMATECHANGE	victim	left_center_bias	False	False	False	False	True
+740	The Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	False	False	True
+740	Clean Power Plan	LEGISLATION_POLICIES_RESPONSES	victim	left_center_bias	False	False	False	False	True
+743	Paris Agreement	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	False	False	False
+743	emissions contained in the Paris agreement	LEGISLATION_POLICIES_RESPONSES	villain	left_center_bias	True	False	False	False	False
+743	reduce emissions	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	False	False	False
+743	cut emissions	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	False	False	False
+746	Coastal areas	GENERALPUBLIC	victim	left_center_bias	False	False	True	False	False
+746	the United States	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	False	False	True	False	False
+746	U.S. President Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+748	the US administration under Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	False	False	False
+748	Actions to reduce CO2 emissions	LEGISLATION_POLICIES_RESPONSES	victim	left_center_bias	False	False	False	False	False
+748	Keith	SCIENCE_EXPERTS_SCI.REPORTS	victim	left_center_bias	False	False	False	False	False
+748	Geoengineering	GREEN_TECHNOLOGY_INNOVATION	victim	left_center_bias	False	False	False	False	False
+756	global ice and snow cover	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	False	False	False	False	False
+756	The Arctic	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	False	False	False	False	False
+756	decision makers	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	False	False	False	False	False
+756	policy makers	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	False	False	False	False	False
+756	carbon dioxide	INDUSTRY_EMISSIONS	villain	left_center_bias	False	False	False	False	False
+756	greenhouse gases	INDUSTRY_EMISSIONS	villain	left_center_bias	False	False	False	False	False
+756	report	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	False	False	False	False	False
+757	Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+757	the EU	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	False	False	True	False	False
+757	The head of the Environmental Protection Agency	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+757	the landmark Paris agreement	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	False	False	True	False	False
+758	the country's health	GENERALPUBLIC	victim	left_center_bias	False	False	False	False	True
+758	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	False	False	True
+758	the Leaking Underground Storage Tank program	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	False	False	False	False	True
+758	the Leaking Underground Storage Tank program	LEGISLATION_POLICIES_RESPONSES	victim	left_center_bias	False	False	False	False	True
+760	drinking water	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	False	False	True	False	False
+760	waterways that provide drinking water	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	False	False	True	False	False
+760	Michael Brune, executive director of Sierra Club	ENV.ORGS_ACTIVISTS	hero	left_center_bias	False	False	True	False	False
+760	117 million Americans	GENERALPUBLIC	victim	left_center_bias	False	False	True	False	False
+760	The Environmental Protection Agency	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+760	the rule	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	False	False	True	False	False
+761	the U.S.	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	True	False	True	False	False
+761	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	False	False
+761	Former Vice President Al Gore	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	True	False	False
+761	the Paris climate agreement	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	True	False	False
+765	the size of 39 named glaciers in Montana	ANIMALS_NATURE_ENVIRONMENT	victim	left_center_bias	False	False	False	False	False
+765	global warming	CLIMATECHANGE	villain	left_center_bias	False	False	False	False	False
+765	global warming	CLIMATECHANGE	villain	left_center_bias	False	False	False	False	False
+765	Montana	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	False	False	False	False	False
+767	democrats and conservatives	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	False	False	False
+767	the bipartisan Climate Leadership Council	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	False	False	False
+767	coal miners	INDUSTRY_EMISSIONS	victim	left_center_bias	True	False	False	False	False
+767	greenhouse gas polluters	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	False	False	False
+767	polluters	INDUSTRY_EMISSIONS	victim	left_center_bias	True	False	False	False	False
+769	President Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	False	False	True	False	False
+769	President Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+769	United States environmental policy	LEGISLATION_POLICIES_RESPONSES	victim	left_center_bias	False	False	True	False	False
+770	climate change	CLIMATECHANGE	victim	left_center_bias	False	False	False	False	False
+770	President Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	False	False	False
+770	the Arctic Council	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	False	False	False	False	False
+770	the eight Arctic nations	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	False	False	False	False	False
+770	greenhouse gases	INDUSTRY_EMISSIONS	villain	left_center_bias	False	False	False	False	False
+770	The joint agreement by the Arctic Council	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	False	False	False	False	False
+771	increase in temperature	ANIMALS_NATURE_ENVIRONMENT	villain	left_center_bias	False	False	False	False	False
+771	Temperature rises in the Antarctic region	ANIMALS_NATURE_ENVIRONMENT	villain	left_center_bias	False	False	False	False	False
+771	Climate change	CLIMATECHANGE	villain	left_center_bias	False	False	False	False	False
+779	California	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	True	False	True
+779	President Obama's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	False	True
+779	President Trump's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	True	False	True
+779	President Trump's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	False	True
+779	the nation's	INDUSTRY_EMISSIONS	victim	left_center_bias	True	False	True	False	True
+779	U.S climate response	LEGISLATION_POLICIES_RESPONSES	victim	left_center_bias	True	False	True	False	True
+779	the Paris climate accord	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	True	False	True
+779	the Paris climate accord	LEGISLATION_POLICIES_RESPONSES	victim	left_center_bias	True	False	True	False	True
+780	President Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	True
+780	the United States	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	False	False	True	False	True
+780	the Paris climate accord	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	False	False	True	False	True
+789	Climate activists	ENV.ORGS_ACTIVISTS	hero	left_center_bias	True	False	True	False	False
+789	human health	GENERALPUBLIC	victim	left_center_bias	True	False	True	False	False
+789	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	False	False
+789	Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	False	False
+789	senator	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	True	False	False
+789	The US Environmental Protection Agency's main climate change website	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	False	False
+790	an enormous crack in an Antarctic ice shelf	ANIMALS_NATURE_ENVIRONMENT	villain	left_center_bias	False	False	False	False	False
+790	Coastal cities	GENERALPUBLIC	victim	left_center_bias	False	False	False	False	False
+790	coastal cities	GENERALPUBLIC	victim	left_center_bias	False	False	False	False	False
+794	Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+794	the United States	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	False	False	True	False	False
+794	the Paris agreement	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	False	False	True	False	False
+794	the Paris agreement	LEGISLATION_POLICIES_RESPONSES	victim	left_center_bias	False	False	True	False	False
+797	President Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	False	False
+797	everyone at the table at the G-7 summit in Taormina	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	True	False	False
+797	the Paris accord to reduce greenhouse gas emissions	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	True	False	False
+797	the Paris accord to reduce greenhouse gas emissions	LEGISLATION_POLICIES_RESPONSES	victim	left_center_bias	True	False	True	False	False
+800	President Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	True
+800	the US	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	False	False	True	False	True
+800	the world	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	False	False	True	False	True
+800	the 2015 Paris climate agreement	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	False	False	True	False	True
+801	the Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	True	False	False
+801	the United States	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	True	False	True	False	False
+801	the nation's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	True	False	True	False	False
+801	Paris Accord	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	True	False	False
+801	the climate pact	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	True	False	False
+802	Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	False	False	False	False	False
+802	The head of the Environmental Protection Agency	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	False	False	False
+802	Clean Power Plan	LEGISLATION_POLICIES_RESPONSES	villain	left_center_bias	False	False	False	False	False
+802	Plan	LEGISLATION_POLICIES_RESPONSES	victim	left_center_bias	False	False	False	False	False
+804	carbon emissions	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	True	False	True
+804	Exxon	INDUSTRY_EMISSIONS	hero	left_center_bias	True	False	True	False	True
+804	Exxon	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	True	False	True
+804	Carbon tax	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	True	False	True
+804	The group	SCIENCE_EXPERTS_SCI.REPORTS	hero	left_center_bias	True	False	True	False	True
+808	the environmental movement	ENV.ORGS_ACTIVISTS	villain	left_center_bias	True	True	False	False	False
+808	communities of color	GENERALPUBLIC	hero	left_center_bias	True	True	False	False	False
+808	communities of color	GENERALPUBLIC	victim	left_center_bias	True	True	False	False	False
+810	The Center for Biological Diversity	ENV.ORGS_ACTIVISTS	hero	left_center_bias	False	False	True	False	False
+810	the incoming Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+810	the US	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	False	False	True	False	False
+810	the US Department of Agriculture USDA	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	left_center_bias	False	False	True	False	False
+810	Bianca Moebius-Clune, director of soil health	SCIENCE_EXPERTS_SCI.REPORTS	villain	left_center_bias	False	False	True	False	False
+811	The Environmental Protection Agency	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	False	False	True	False	False
+811	its scientists	SCIENCE_EXPERTS_SCI.REPORTS	villain	left_center_bias	False	False	True	False	False
+811	its scientists	SCIENCE_EXPERTS_SCI.REPORTS	victim	left_center_bias	False	False	True	False	False
+811	scientific communities who conclude that human-caused global warming is a proven fact	SCIENCE_EXPERTS_SCI.REPORTS	victim	left_center_bias	False	False	True	False	False
+812	weather phenomenon	ANIMALS_NATURE_ENVIRONMENT	villain	left_center_bias	True	False	False	False	False
+812	weather phenomenon	ANIMALS_NATURE_ENVIRONMENT	villain	left_center_bias	True	False	False	False	False
+812	Human activities	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	False	False	False
+812	human activities	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	False	False	False
+812	the Paris agreement	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	False	False	False
+813	California	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	left_center_bias	True	False	False	False	True
+813	Donald Trump's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	left_center_bias	True	False	False	False	True
+813	gas and coal companies	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	False	False	True
+814	coal	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	False	True	True
+814	companies	INDUSTRY_EMISSIONS	villain	left_center_bias	True	False	False	True	True
+814	natural gas	INDUSTRY_EMISSIONS	hero	left_center_bias	True	False	False	True	True
+814	rule	LEGISLATION_POLICIES_RESPONSES	hero	left_center_bias	True	False	False	True	True
+820	a US appeals court	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	True	False	False	False	False
+820	EPA Administrator Scott Pruitt	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	True	False	False	False	False
+820	The Environmental Protection Agency's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	True	False	False	False	False
+822	greenies	ENV.ORGS_ACTIVISTS	villain	questionable_source	False	False	True	False	False
+822	Climate Industrial Complex	INDUSTRY_EMISSIONS	villain	questionable_source	False	False	True	False	False
+822	The Climate Industrial Complex	INDUSTRY_EMISSIONS	villain	questionable_source	False	False	True	False	False
+822	Scientific papers casting doubt on global warming	SCIENCE_EXPERTS_SCI.REPORTS	hero	questionable_source	False	False	True	False	False
+823	Obama	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	True	False	True	False	True
+823	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	True	False	True	False	True
+823	U.S economy	INDUSTRY_EMISSIONS	victim	questionable_source	True	False	True	False	True
+823	US Economy	INDUSTRY_EMISSIONS	victim	questionable_source	True	False	True	False	True
+823	the Clean Power Plan	LEGISLATION_POLICIES_RESPONSES	villain	questionable_source	True	False	True	False	True
+824	the Arctic Circle	ANIMALS_NATURE_ENVIRONMENT	victim	questionable_source	True	False	True	False	False
+824	the U.S.	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	questionable_source	True	False	True	False	False
+824	President Donald Trump's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	True	False	True	False	False
+824	Secretary of State Rex Tillerson	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	True	False	True	False	False
+824	the Paris Climate Treaty	LEGISLATION_POLICIES_RESPONSES	hero	questionable_source	True	False	True	False	False
+825	the planet	ANIMALS_NATURE_ENVIRONMENT	victim	questionable_source	True	False	True	False	False
+825	green propaganda	ENV.ORGS_ACTIVISTS	villain	questionable_source	True	False	True	False	False
+825	Nuclear power	INDUSTRY_EMISSIONS	hero	questionable_source	True	False	True	False	False
+825	Lovelock	SCIENCE_EXPERTS_SCI.REPORTS	hero	questionable_source	True	False	True	False	False
+825	the stupid bloody academics	SCIENCE_EXPERTS_SCI.REPORTS	villain	questionable_source	True	False	True	False	False
+828	Manufacturing sectors	INDUSTRY_EMISSIONS	victim	questionable_source	False	False	False	False	True
+828	Musk	INDUSTRY_EMISSIONS	villain	questionable_source	False	False	False	False	True
+828	government subsidies	LEGISLATION_POLICIES_RESPONSES	villain	questionable_source	False	False	False	False	True
+832	Climate activists	ENV.ORGS_ACTIVISTS	hero	questionable_source	False	False	True	False	False
+832	public health	GENERALPUBLIC	victim	questionable_source	False	False	True	False	False
+832	President Donald Trump's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	False	True	False	False
+832	President Obama's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	False	False	True	False	False
+832	thousands of scientists, students and research advocates	SCIENCE_EXPERTS_SCI.REPORTS	victim	questionable_source	False	False	True	False	False
+833	the EPA	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	False	True	True	False	False
+833	the United States	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	questionable_source	False	True	True	False	False
+833	Schwarzenegger	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	True	True	False	False
+835	Obama	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	True	False	True	False	True
+835	US President Donald Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	True	False	True	False	True
+835	the 2015 Paris Agreement	LEGISLATION_POLICIES_RESPONSES	hero	questionable_source	True	False	True	False	True
+835	the 2015 Paris Agreement	LEGISLATION_POLICIES_RESPONSES	villain	questionable_source	True	False	True	False	True
+835	the 2015 Paris Agreement	LEGISLATION_POLICIES_RESPONSES	victim	questionable_source	True	False	True	False	True
+838	The environment	ANIMALS_NATURE_ENVIRONMENT	victim	questionable_source	False	False	True	False	True
+838	Southern states	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	questionable_source	False	False	True	False	True
+838	Portugal	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	questionable_source	False	False	True	False	True
+838	the US Department of Agriculture's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	False	True	False	True
+838	Anne Petermann, executive director at the Global Justice Ecology Project	SCIENCE_EXPERTS_SCI.REPORTS	hero	questionable_source	False	False	True	False	True
+840	people in Appalachia	GENERALPUBLIC	victim	questionable_source	False	False	False	False	False
+840	people living near mountaintop mining sites	GENERALPUBLIC	victim	questionable_source	False	False	False	False	False
+840	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	False	False	False	False
+840	scientist that were arbitrarily reassigned	SCIENCE_EXPERTS_SCI.REPORTS	victim	questionable_source	False	False	False	False	False
+843	climate change	CLIMATECHANGE	villain	questionable_source	False	False	True	False	False
+843	Trump administration officials	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	False	True	False	False
+845	Migratory Songbirds	ANIMALS_NATURE_ENVIRONMENT	victim	questionable_source	False	False	True	False	False
+845	manmade global warming	CLIMATECHANGE	villain	questionable_source	False	False	True	False	False
+845	Policymakers	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	questionable_source	False	False	True	False	False
+845	a new study from Scientific Reports	SCIENCE_EXPERTS_SCI.REPORTS	villain	questionable_source	False	False	True	False	False
+846	Global ecosystems	ANIMALS_NATURE_ENVIRONMENT	victim	questionable_source	False	False	False	True	False
+846	the Pope's	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	False	False	True	False
+846	Carbon pollution	INDUSTRY_EMISSIONS	villain	questionable_source	False	False	False	True	False
+846	The Paris Agreement	LEGISLATION_POLICIES_RESPONSES	hero	questionable_source	False	False	False	True	False
+847	California drinking water	ANIMALS_NATURE_ENVIRONMENT	victim	questionable_source	True	False	True	False	True
+847	California water districts	ANIMALS_NATURE_ENVIRONMENT	hero	questionable_source	True	False	True	False	True
+847	public health	GENERALPUBLIC	victim	questionable_source	True	False	True	False	True
+847	the Rio Linda Elverta Community Water District	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	True	False	True	False	True
+847	the US government	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	True	False	True	False	True
+848	Australian and German taxpayers	GENERALPUBLIC	victim	questionable_source	False	False	False	False	True
+848	consumers	GENERALPUBLIC	victim	questionable_source	False	False	False	False	True
+848	Political leaders	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	False	False	False	False	True
+848	Paris Agreement	LEGISLATION_POLICIES_RESPONSES	villain	questionable_source	False	False	False	False	True
+848	Paris Climate Commitments	LEGISLATION_POLICIES_RESPONSES	villain	questionable_source	False	False	False	False	True
+850	The Sierra Club	ENV.ORGS_ACTIVISTS	hero	questionable_source	True	False	True	False	True
+850	7500 Americans	GENERALPUBLIC	victim	questionable_source	True	False	True	False	True
+850	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	True	False	True	False	True
+850	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	True	False	True	False	True
+850	Bloomberg	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	True	False	True	False	True
+850	Bloomberg	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	True	False	True	False	True
+850	coal	INDUSTRY_EMISSIONS	villain	questionable_source	True	False	True	False	True
+850	workers who depend on the fossil fuel economy	INDUSTRY_EMISSIONS	victim	questionable_source	True	False	True	False	True
+852	the world	GENERALPUBLIC	victim	questionable_source	True	False	True	False	False
+852	Democrats	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	True	False	True	False	False
+852	Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	True	False	True	False	False
+852	EPA appointee William Wehrum	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	True	False	True	False	False
+852	Puerto Rico	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	questionable_source	True	False	True	False	False
+852	Senator Jeff Merkley D-OR	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	True	False	True	False	False
+852	greenhouse gases	INDUSTRY_EMISSIONS	villain	questionable_source	True	False	True	False	False
+857	soil	ANIMALS_NATURE_ENVIRONMENT	victim	questionable_source	False	False	False	False	True
+857	Water	ANIMALS_NATURE_ENVIRONMENT	victim	questionable_source	False	False	False	False	True
+857	workers	GENERALPUBLIC	victim	questionable_source	False	False	False	False	True
+857	the Department of Ecology	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	False	False	False	False	True
+857	by Washington River Protection Solutions WRPS	INDUSTRY_EMISSIONS	villain	questionable_source	False	False	False	False	True
+857	Hanford	INDUSTRY_EMISSIONS	victim	questionable_source	False	False	False	False	True
+858	environmental activists	ENV.ORGS_ACTIVISTS	villain	questionable_source	False	True	True	False	False
+858	25,000 people	GENERALPUBLIC	victim	questionable_source	False	True	True	False	False
+858	25,000 people	GENERALPUBLIC	victim	questionable_source	False	True	True	False	False
+858	carbon emissions	INDUSTRY_EMISSIONS	villain	questionable_source	False	True	True	False	False
+858	the Paris Climate Accord	LEGISLATION_POLICIES_RESPONSES	villain	questionable_source	False	True	True	False	False
+863	the Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	True	False	False	False	False
+863	California Governor Jerry Brown	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	True	False	False	False	False
+863	Governor Jerry Brown	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	True	False	False	False	False
+863	Jerry Brown	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	True	False	False	False	False
+863	Car industries	INDUSTRY_EMISSIONS	victim	questionable_source	True	False	False	False	False
+866	Hurricane Harvey	ANIMALS_NATURE_ENVIRONMENT	villain	questionable_source	False	False	False	False	True
+866	Texan air quality	ANIMALS_NATURE_ENVIRONMENT	victim	questionable_source	False	False	False	False	True
+866	Texas	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	questionable_source	False	False	False	False	True
+866	Exxon	INDUSTRY_EMISSIONS	villain	questionable_source	False	False	False	False	True
+868	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	False	True	False	False
+868	Scott Pruitt, the head of the Environmental Protection Agency	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	False	True	False	False
+868	Carbon emissions	INDUSTRY_EMISSIONS	villain	questionable_source	False	False	True	False	False
+868	Obama-era regulations	LEGISLATION_POLICIES_RESPONSES	hero	questionable_source	False	False	True	False	False
+868	Fox News's Chris Wallace	MEDIA_JOURNALISTS	hero	questionable_source	False	False	True	False	False
+869	Protesters	ENV.ORGS_ACTIVISTS	villain	questionable_source	True	False	True	False	False
+869	Washington Governor Jay Inslee D	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	True	False	True	False	False
+869	a BNSF train	INDUSTRY_EMISSIONS	victim	questionable_source	True	False	True	False	False
+869	a proposed oil terminal	INDUSTRY_EMISSIONS	villain	questionable_source	True	False	True	False	False
+873	Tropical waves' of air	ANIMALS_NATURE_ENVIRONMENT	villain	questionable_source	False	False	False	False	False
+873	tropical waves	ANIMALS_NATURE_ENVIRONMENT	villain	questionable_source	False	False	False	False	False
+873	Florida	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	questionable_source	False	False	False	False	False
+875	its	ENV.ORGS_ACTIVISTS	villain	questionable_source	True	False	False	False	True
+875	ETC	ENV.ORGS_ACTIVISTS	hero	questionable_source	True	False	False	False	True
+875	President Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	hero	questionable_source	True	False	False	False	True
+875	President Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	True	False	False	False	True
+875	energy industry	INDUSTRY_EMISSIONS	victim	questionable_source	True	False	False	False	True
+875	Paris Accord	LEGISLATION_POLICIES_RESPONSES	hero	questionable_source	True	False	False	False	True
+875	Green energy	GREEN_TECHNOLOGY_INNOVATION	hero	questionable_source	True	False	False	False	True
+876	Global warming	CLIMATECHANGE	villain	questionable_source	True	False	False	True	False
+876	Movement	ENV.ORGS_ACTIVISTS	hero	questionable_source	True	False	False	True	False
+876	World Catholic Climate Change Movement	ENV.ORGS_ACTIVISTS	hero	questionable_source	True	False	False	True	False
+876	coal	INDUSTRY_EMISSIONS	villain	questionable_source	True	False	False	True	False
+876	gas	INDUSTRY_EMISSIONS	villain	questionable_source	True	False	False	True	False
+876	oil	INDUSTRY_EMISSIONS	villain	questionable_source	True	False	False	True	False
+878	Alaskan wildlife	ANIMALS_NATURE_ENVIRONMENT	victim	questionable_source	False	False	True	False	True
+878	animals	ANIMALS_NATURE_ENVIRONMENT	victim	questionable_source	False	False	True	False	True
+878	Trump	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	False	True	False	True
+878	Trump administration	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	False	True	False	True
+878	The Center for Biological Diversity, Greenpeace and REDOIL lawsuit	LEGISLATION_POLICIES_RESPONSES	hero	questionable_source	False	False	True	False	True
+880	the carbon cycle	ANIMALS_NATURE_ENVIRONMENT	villain	questionable_source	False	False	True	False	False
+880	your grandchildren	GENERALPUBLIC	victim	questionable_source	False	False	True	False	False
+880	Rothman	SCIENCE_EXPERTS_SCI.REPORTS	villain	questionable_source	False	False	True	False	False
+882	people and animals in Alaska	ANIMALS_NATURE_ENVIRONMENT	victim	questionable_source	False	False	False	False	False
+882	Global warming	CLIMATECHANGE	villain	questionable_source	False	False	False	False	False
+882	warming	CLIMATECHANGE	villain	questionable_source	False	False	False	False	False
+882	Alaska	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	questionable_source	False	False	False	False	False
+883	Western Civilization	GENERALPUBLIC	victim	questionable_source	False	False	True	True	True
+883	Aussie ex-Prime Minister Tony Abbott	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	questionable_source	False	False	True	True	True
+883	Greens	GOVERNMENTS_POLITICIANS_POLIT.ORGS	villain	questionable_source	False	False	True	True	True
+883	Tony Abbott	GOVERNMENTS_POLITICIANS_POLIT.ORGS	victim	questionable_source	False	False	True	True	True
