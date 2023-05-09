@@ -218,6 +218,6 @@ class SentenceCollator(object):
 
 if __name__ == '__main__':
 
-    b = SentenceDataset('./dataset_sentence/', 1, 'AR', 'train')
+    b = SentenceDataset('./dataset_for_modeling/', 1, 'AR', 'train')
 
     print(len(b[10][0]))

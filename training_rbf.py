@@ -76,7 +76,7 @@ def main():
     parser.add_argument('--device', type=str, default="cuda:0", 
                         help='Selecting running device (default:cuda:0)')
 
-    parser.add_argument('--dataset', type=str, default="./dataset_sentence/", 
+    parser.add_argument('--dataset', type=str, default="./dataset_for_modeling/", 
                         help='dataset folder path')
 
     parser.add_argument('--lr', type=float, default=2e-6,

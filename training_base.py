@@ -106,7 +106,7 @@ def main():
     parser.add_argument('--model', type=str, default="FD_BASE", 
                         help='model structure to use')
 
-    parser.add_argument('--dataset', type=str, default="./dataset_original/", 
+    parser.add_argument('--dataset', type=str, default="./dataset_processed_raw/", 
                         help='entire dataset file path')
 
     parser.add_argument('--specified_label', type=str, default='None', 
