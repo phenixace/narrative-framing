@@ -33,15 +33,17 @@ full_annotations.json
 The subset of questions which were verified as predictive for one of the five frames, and the only ones used in this
 paper, are:
 
-CO: CO1 CO2, CO3 
-EC: EC1, EC2, EC3
-HI: HI1, HI2, HI5
-MO: MO1, MO2
-RE: RE1, RE5
+**Conflict**: CO1 CO2, CO3 <br>
+**Economic**: EC1, EC2, EC3<br>
+**Human interest**: HI1, HI2, HI5<br>
+**Moral**: MO1, MO2<br>
+**Resolution**: RE1, RE5
 
-Hero: RE6
-Villain: RE7
-Victim: HI3
+The questions used to  detect entities and narrative roles are:
+
+**Hero**: RE6<br>
+**Villain**: RE7<br>
+**Victim**: HI3
 
 ## Annotation instructions and codebook
 The two pdf files contain the instructions given to annotators.
