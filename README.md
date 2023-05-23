@@ -2,6 +2,9 @@
 This repository contains the code and data for the paper "Conflicts, Villains, Resolutions:
 Towards models of Narrative Media Framing" by Lea Frermann, Jiatong Li, Shima Khanehzar and Gosia Mikolajczak to appear in ACL 2023.
 
+For question about code and experiments, please contact Jiatong Li at [jiatong.li@connect.polyu.hk](mailto:jiatong.li@connect.polyu.hk)<br>
+For all other questions contact Lea Frermann at [lea.frermann@unimelb.edu.au](mailto:lea.frermann@unimelb.edu.au)
+
 ## Requirements
 * torch == 1.13.1
 * argparse == 1.1
@@ -12,8 +15,8 @@ Towards models of Narrative Media Framing" by Lea Frermann, Jiatong Li, Shima Kh
 
 <!-- Other versions might also work, but the default settings are recommended if you encounter any version inconsistency problems. -->
 
-## Data
-The dataset with full annotations is provided under [./data/](./data/). It includes all articles, metadata, and aggregated as well as dis-aggregated annotations.
+## The Narrative Frames Corpus
+The Narrative Frames Corpus can be found under [./data/](./data/). It includes all articles, metadata, and aggregated as well as dis-aggregated annotations of narrative frames, and entity roles.
 
 ## Code
 
