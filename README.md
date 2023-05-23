@@ -5,7 +5,12 @@ Towards models of Narrative Media Framing" by Lea Frermann, Jiatong Li, Shima Kh
 For question about code and experiments, please contact Jiatong Li at [jiatong.li@connect.polyu.hk](mailto:jiatong.li@connect.polyu.hk)<br>
 For all other questions contact Lea Frermann at [lea.frermann@unimelb.edu.au](mailto:lea.frermann@unimelb.edu.au)
 
-## Requirements
+## The Narrative Frames Corpus
+The Narrative Frames Corpus can be found under [./data/](./data/). It includes all articles, metadata, and aggregated as well as dis-aggregated annotations of narrative frames, and entity roles.
+
+## Code
+
+### Requirements
 * torch == 1.13.1
 * argparse == 1.1
 * numpy == 1.21.5
@@ -14,11 +19,6 @@ For all other questions contact Lea Frermann at [lea.frermann@unimelb.edu.au](ma
 * nltk == 3.7
 
 <!-- Other versions might also work, but the default settings are recommended if you encounter any version inconsistency problems. -->
-
-## The Narrative Frames Corpus
-The Narrative Frames Corpus can be found under [./data/](./data/). It includes all articles, metadata, and aggregated as well as dis-aggregated annotations of narrative frames, and entity roles.
-
-## Code
 
 ### Data splits for model training
 
