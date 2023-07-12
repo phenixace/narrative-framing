@@ -1,6 +1,6 @@
 # Framing Detection
 This repository contains the code and data for the paper "Conflicts, Villains, Resolutions:
-Towards models of Narrative Media Framing" by Lea Frermann, Jiatong Li, Shima Khanehzar and Gosia Mikolajczak to appear in ACL 2023.
+Towards models of Narrative Media Framing" by Lea Frermann, Jiatong Li, Shima Khanehzar and Gosia Mikolajczak in ACL 2023. Here is the [Paper Link](https://aclanthology.org/2023.acl-long.486/).
 
 For question about code and experiments, please contact Jiatong Li at [jiatong.li@connect.polyu.hk](mailto:jiatong.li@connect.polyu.hk)<br>
 For all other questions contact Lea Frermann at [lea.frermann@unimelb.edu.au](mailto:lea.frermann@unimelb.edu.au)
@@ -137,11 +137,30 @@ sbatch ./experiments/scripts/run_training.slurm
 ```
 
 ## Citation
+#### Short
 ```
 @inproceedings{narrative_framing_acl2023,
   title={Conflicts, Villains, Resolutions: Towards models of Narrative Media Framing},
   author={Lea Frermann and Jiatong Li and Shima Khanehzar and Gosia Mikolajczak},
   booktitle={Proceedings of The 61st Annual Meeting of the Association for Computational Linguistics},
-  year={2023 (to appear)}
+  year={2023}
+}
+```
+#### Official Full
+```
+@inproceedings{frermann-etal-2023-conflicts,
+    title = "Conflicts, Villains, Resolutions: Towards models of Narrative Media Framing",
+    author = "Frermann, Lea  and
+      Li, Jiatong  and
+      Khanehzar, Shima  and
+      Mikolajczak, Gosia",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-long.486",
+    pages = "8712--8732",
+    abstract = "Despite increasing interest in the automatic detection of media frames in NLP, the problem is typically simplified as single-label classification and adopts a topic-like view on frames, evading modelling the broader document-level narrative. In this work, we revisit a widely used conceptualization of framing from the communication sciences which explicitly captures elements of narratives, including conflict and its resolution, and integrate it with the narrative framing of key entities in the story as heroes, victims or villains. We adapt an effective annotation paradigm that breaks a complex annotation task into a series of simpler binary questions, and present an annotated data set of English news articles, and a case study on the framing of climate change in articles from news outlets across the political spectrum. Finally, we explore automatic multi-label prediction of our frames with supervised and semi-supervised approaches, and present a novel retrieval-based method which is both effective and transparent in its predictions. We conclude with a discussion of opportunities and challenges for future work on document-level models of narrative framing.",
 }
 ```
